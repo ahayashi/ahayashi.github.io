@@ -10,7 +10,7 @@
 - Sandia National Laboratories
     - Resilient-HClib
     - Resilient-Kokkos
-- Oak Ridge National Laboratries
+- Oak Ridge National Laboratory
     - QCOR: [link](https://qcor.ornl.gov/)
 - and more!
 

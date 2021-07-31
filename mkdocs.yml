@@ -15,7 +15,10 @@ theme:
   language: en
   font:
     text: Inconsolata
-  favicon: assets/favicon.png
+  palette:
+    primary: black
+    scheme: slate
+  favicon: material/alpha-a-box
   icon:
     logo: material/alpha-a-box
 

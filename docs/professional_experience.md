@@ -39,7 +39,7 @@ Conducted research on automatic parallelization and power reduction techniques f
 
 ### Awards
 
-- Outstand Paper award, The 2020 International Conference on High Performance Computing & Simulation (HPCS2020), Mar 2021.
+- Outstanding Paper award, The 2020 International Conference on High Performance Computing & Simulation (HPCS2020), Mar 2021.
 (Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar)
 - Best Expo Exhibit, 28th Annual International Conference on Computer Science and Software Engineering (CASCON2018), November 2018 (1 best exhibit out of 72 exhibits). 
 (Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Shalev Housfater, Jimmy Kwa, Vivek Sarkar)

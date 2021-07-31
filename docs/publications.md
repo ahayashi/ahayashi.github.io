@@ -4,6 +4,8 @@
 ### Refereed Papers
 
 #### Conference and Journal Publications
+1. **Towards Chapel-based Exascale Tree Search Algorithms: dealing with multiple GPU accelerators**. Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar. 18th International Conference on High Performance Computing & Simulation (HPCS2020)
+
 1. **Compiler-Support for Critical Data Persistence in NVM**. Reem Elkhouly, Mohammad Alshboul, Akihiro Hayashi, Yan Solihin, Keiji Kimura. ACM Transactions on Architecture and Code Optimization (TACO). [DOI](https://doi.org/10.1145/3371236)
 
 1. **Enabling Resilience in Asynchronous Many-Task Programming Models**. Sri Raj Paul, Akihiro Hayashi, Nicole Slattengren, Hemanth Kolla, Matthew Whitlock, Seonmyeong Bak, Keita Teranishi, Jackson Mayo, Vivek Sarkar. 25th International European Conference on Parallel and Distributed Computing (Euro-Par2019), August 2019. [DOI](https://doi.org/10.1007/978-3-030-29400-7_25)

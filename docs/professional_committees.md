@@ -1,7 +1,7 @@
 Professional Committees
 =======================
 
-### Program Committees
+### Conference Committees
 
 - External Review Committee Member, 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), February 2022.
 - Program Committee Member, 31st Annual International Conference on Computer Science and Software Engineering (CASCON), November 2021

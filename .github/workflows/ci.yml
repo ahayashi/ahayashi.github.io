@@ -9,22 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: docker://pandoc/latex:latest
+      with:
+        args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -o docs/cv/Akihiro-CV-Auto.pdf
+      - run: |
+          git add docs/cv/Akihiro-CV-Auto.pdf
+          git config --global user.name 'Akihiro Hayashi'
+          git config --global user.email 'ahayashi@gatech.edu'
+          git commit -am "Add auto-generated CV"
+          git push
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force --remote-branch master
-
-  convert_via_pandoc:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: docker://pandoc/latex:latest
-      with:
-        args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -o docs/cv/auto-cv.pdf
-    - run: |
-        git add docs/cv/auto-cv.pdf
-        git config --global user.name 'Akihiro Hayashi'
-        git config --global user.email 'ahayashi@gatech.edu'
-        git commit -am "Add auto-generated CV"
-        git push

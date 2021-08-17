@@ -28,7 +28,6 @@ Conducted research on automatic parallelization and power reduction techniques f
 
 Conducted research on automatic parallelization and power reduction techniques for embedded heterogeneous multi-core processors in collaboration with Hitachi Ltd. and Renesas Electronics Corporation (formerly known as Renesas Technology). This work was partially saupported by one of the global centers of excellence (GCOE) program named “International research and education center for Ambient SoC” established by Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT).
 
-
 ### Teaching
 
 #### Courses
@@ -41,7 +40,6 @@ Conducted research on automatic parallelization and power reduction techniques f
 - Fundamentals of FPGA Programming, Waseda University, Spring 2018 
 
 ### Awards
-
 - Outstanding Paper award, The 2020 International Conference on High Performance Computing & Simulation (HPCS2020), Mar 2021.
 (Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar)
 - Best Expo Exhibit, 28th Annual International Conference on Computer Science and Software Engineering (CASCON2018), November 2018 (1 best exhibit out of 72 exhibits). 
@@ -54,3 +52,6 @@ Conducted research on automatic parallelization and power reduction techniques f
 - Encouragement award, IPSJ Symposium on Embedded Systems, October 2012.  (Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara)
 - IPSJ SIG recommended Ph.D thesis, September 2012.
 - Best presentation award, 5th GCOE Symposium, September 2009.
+
+### Membership in Professional Associations
+- IEEE (Senior Member)

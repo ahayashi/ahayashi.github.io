@@ -1,3 +1,6 @@
+Professional Experience
+=======================
+
 ### Professional
 
 #### **Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA - 2019-present**

@@ -1,5 +1,5 @@
-### Projects
-
+Projects
+========
 
 #### PGAS Languages (Chapel)
 - Chapel-GPU: [link](https://ahayashi.github.io/chapel-gpu/index.html)

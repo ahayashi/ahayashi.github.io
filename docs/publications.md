@@ -1,3 +1,6 @@
+Publications
+============
+
 ### Ph.D Dissertation
 - **Studies on Automatic Parallelization for Heterogeneous and Homogeneous Multicore Processors**. Akihiro Hayashi. Waseda University. February 2012.
 

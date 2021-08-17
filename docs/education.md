@@ -1,5 +1,5 @@
-### Education
-
+Education
+=========
 
 #### **Ph.D., Computer Science, Waseda University, Tokyo, Japan - 2012**
 

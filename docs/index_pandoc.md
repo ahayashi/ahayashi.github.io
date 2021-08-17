@@ -2,7 +2,15 @@
 title: Curriculum Vitae
 author: Akihiro Hayashi
 header-includes:
-    \AddToHook{cmd/section/before}{\clearpage}
+    \usepackage[margin=0.75in]{geometry}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \rhead{Page \thepage}
+    \chead{\textit{Curriculum Vitae}}
+    \lhead{\textbf{Akihiro Hayashi, Ph.D.}}
+    \rfoot{As of \today}
+    \renewcommand{\headrulewidth}{2pt}
 ---
 
 Summary

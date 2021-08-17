@@ -1,6 +1,13 @@
-![Akihiro](./img/akihiro.png)
+---
+title: Curriculum Vitae
+author: Akihiro Hayashi
+header-includes:
+    \AddToHook{cmd/section/before}{\clearpage}
+---
 
-### Summary
+Summary
+=======
+
 Dr. Hayashi is a senior research scientist at Georgia Institute of Technology. He has over ten years of experience in conducting and leading research in the programming languages and parallel computing areas. His research interests include:
 
 - Parallel and Distributed Programming Models

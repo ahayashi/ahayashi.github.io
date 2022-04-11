@@ -3,9 +3,11 @@ Professional Committees
 
 ### Conference Committees
 
+- Program Committee Member, The 9th Annual Chapel Implementers and Users Workshop (CHIUW), June 2022.
 - External Review Committee Member, 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), February 2022.
 - Program Committee Member, 31st Annual International Conference on Computer Science and Software Engineering (CASCON), November 2021
 - Program Committee Member, Workshop on Programming Environments for Heterogeneous Computing (PEHC), November 2021 (co-located with SC2021)
+- Program Committee Member, 8th International Workshop on Large-scale HPC Application Modernization (LHAM), November 2021 (co-located with CANDAR2021)
 - Program Committee Member, 2nd International Workshop on Parallel Optimization using/for Multi- and Many-core High Performance Computing (POMCO), December 2020 (co-located with HPCS2020)
 - Program Committee Member, 29th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2019
 - Program Committee Member, 7th International Workshop on Computer Systems and Architectures (CSA), November 2019.
@@ -27,6 +29,7 @@ Professional Committees
 
 ### Journal Reviewers
 
+- ACM Transactions on Architecture and Code Optimization (TACO) (2021, 2022)
 - ACM Transactions on Programming Languages and Systems (TOPLAS) (2018)
 - Arabian Journal for Science and Engineering (2017)
 - Journal of Parallel and Distributed Computing (JDPC) (2017)

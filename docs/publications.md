@@ -9,6 +9,8 @@ Publications
 #### Conference and Journal Publications
 1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022)
 
+1. **Qulacs: a fast and versatile quantum circuit simulator for research purpose**. Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro Nakadai, Jiabao Chen, Ken M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya O. Nakagawa, Yohei Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi, Keisuke Fujii. Quantum Journal (Quantum 5, 559)
+
 1. **Towards Chapel-based Exascale Tree Search Algorithms: dealing with multiple GPU accelerators**. Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar. 18th International Conference on High Performance Computing & Simulation (HPCS2020)
 
 1. **Compiler-Support for Critical Data Persistence in NVM**. Reem Elkhouly, Mohammad Alshboul, Akihiro Hayashi, Yan Solihin, Keiji Kimura. ACM Transactions on Architecture and Code Optimization (TACO). [DOI](https://doi.org/10.1145/3371236)

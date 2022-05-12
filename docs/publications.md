@@ -7,7 +7,9 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
-1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022)
+1. **Automatic Parallelization of Python programs for Distributed Heterogeneous Computing**. Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov and Vivek Sarkar. 28th International European Conference on Parallel and Distributed Computing (Euro-Par2022), August 2022.
+
+1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022), June 2022.
 
 1. **Qulacs: a fast and versatile quantum circuit simulator for research purpose**. Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro Nakadai, Jiabao Chen, Ken M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya O. Nakagawa, Yohei Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi, Keisuke Fujii. Quantum Journal (Quantum 5, 559). [DOI](https://doi.org/10.22331/q-2021-10-06-559)
 
@@ -48,6 +50,8 @@ Publications
 1. **Software-Cooperative Power-Efficient Heterogeneous Multi-Core for Media Processing**. Hiroaki Shikano, Masaki Ito, Kunio Uchiyama, Toshihiko Odaka,Akihiro Hayashi, Takeshi Masuura, Masayoshi Mase, Jun Shirako, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 13th Asia and South Pacific Design Automation Conference (ASP-DAC2008), January 2008.
 
 #### Workshop Proceedings
+
+1. **A Multi-Level Platform-Independent GPU API for High-Level Programming Models**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar, HPC on Heterogeneous Hardware Workshop (H3), June 2022. (co-located with ISC22)
 
 1. **Integrating Inter-Node Communication with a Resilient Asynchronous Many-Task Runtime System**. Sri Raj Paul, Akihiro Hayashi, Matthew Whitlock, Seonmyeong Back, Keita Teranishi, Jackson Mayo, Max Grossman, Vivek Sarkar, International IEEE workshop on Exascale MPI (ExaMPI), November 2020. (co-located with SC20)
 
@@ -95,7 +99,7 @@ Publications
 
 1. **OSCAR Parallelizing Compiler Cooperative Heterogeneous Multi-core Architecture**. Akihiro Hayashi, Yasutaka Wada, Hiroaki Shikano, Teruo Kamiayama, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, 18th International Conference on Parallel Architectures and Compilation Techniques (PACT2009), September 2009.
 
-### Patents (includes applications)
+### Patents (include applications)
 
 1. **Parallelism extraction method and method for making program**. Hironori Kasahara, Keiji Kimura, Akihiro Hayashi, Hiroki Mikami, Yohei Kanehagi, Dan Umeda, Mitsuo Sawada. [LINK](https://patents.google.com/patent/US20150363230A1/en)
 
@@ -108,6 +112,8 @@ Publications
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
 ### Presentations
+1. **GPUAPI: Multi-level Chapel Runtime API for GPUs**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 8th Annual Chapel Implementers and Users Workshop (CHIUW), June 2021.
+
 1. **Exploring a multi-resolution GPU programming model for Chapel**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 7th Annual Chapel Implementers and Users Workshop (CHIUW), May 2020. (co-located with IPDPS2020)
 
 1. **Resilience With Asynchronous Many Task (AMT) Programming Models**. SIAM Conference on Parallel Processing for Scientific Computing

@@ -4,7 +4,7 @@ Professional Experience
 ### Professional
 
 #### **Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA - 2019-present**
-Responsible for conducting and leading research on 1) enabling resiliency in asynchronous many-task (AMT) programming models, 2) an actor-based programming model for large-scale systems, 3) multi-level programming models for Graphics Processing Units (GPUs) and SIMD (Single-Instruction Multiple Data) units, 4) code generation and optimizations for Graphics Processing Units (GPUs), and 5) automatic construction of compiler/runtime heuristics using machine-learning techniques.
+Responsible for conducting and leading research on 1) enabling resiliency in asynchronous many-task (AMT) programming models, 2) an actor-based programming model for large-scale systems, 3) multi-level programming models for Graphics Processing Units (GPUs) and SIMD (Single-Instruction Multiple Data) units, 4) code generation and optimizations for Graphics Processing Units (GPUs), 5) automatic construction of compiler/runtime heuristics using machine-learning techniques, and 6) programming models for quantum classical systems.
 
 #### **Research Scientist, Rice University, Houston, TX, USA - 2015-2019**
 

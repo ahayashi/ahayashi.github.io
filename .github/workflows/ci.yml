@@ -8,7 +8,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: docker://pandoc/latex:latest
         with:
           args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -o docs/cv/Akihiro-CV-Auto.pdf

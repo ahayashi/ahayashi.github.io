@@ -29,6 +29,7 @@ Professional Committees
 
 ### Journal Reviewers
 
+- IEEE Micro (2022)
 - ACM Transactions on Architecture and Code Optimization (TACO) (2021, 2022)
 - ACM Transactions on Programming Languages and Systems (TOPLAS) (2018)
 - Arabian Journal for Science and Engineering (2017)
@@ -37,6 +38,10 @@ Professional Committees
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)(2015)
 - IPSJ (Information Processing Society of Japan) Journals (2015, 2014)
 - IEICE (The Institute of Electronics, Information and Communication Engineers) Transactions on Information and Systems (2020, 2013, 2012)
+
+### Journal Editors
+
+- Guest Associate Editor, IEICE (The Institute of Electronics, Information and Communication Engineers) Special Section on Low-Power and High-Speed Chips (2022)
 
 ### External Reviewers
 
@@ -49,3 +54,7 @@ Professional Committees
 - International Conference on Parallel and Distributed Systems (ICPADS2013)
 - International Conference on Computer Design (ICCD2014, ICCD2013, ICCD2012)
 - International Workshop on Languages and Compilers for Parallel Computing (LCPC2018, LCPC2015, LCPC2014, LCPC2013)
+
+### Specification Committees
+
+- OpenSHMEM Application Programming Interface (2022-)

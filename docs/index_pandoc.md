@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 author: Akihiro Hayashi
-header-includes:
+header-includes: |
     \usepackage[margin=0.75in]{geometry}
     \usepackage{fancyhdr}
     \pagestyle{fancy}

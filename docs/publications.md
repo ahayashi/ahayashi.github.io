@@ -57,19 +57,19 @@ Publications
 
 1. **GPUIterator: bridging the gap between Chapel and native languages**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, The ACM SIGPLAN 6th Annual Chapel Implementers and Users Workshop (CHIUW), June 2019. (co-located with PLDI2019/ACM FCRC2019) [DOI](https://doi.org/10.1145/3329722.3330142)
 
-1. **A Unified Runtime for PGAS and Event-Driven Programming**. Sri Raj Paul, Kun Chen, Akihiro Hayashi, Max Grossman, Vivek Sarkar, International IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2), November 2018. (co-located with SC18)
+1. **A Unified Runtime for PGAS and Event-Driven Programming**. Sri Raj Paul, Kun Chen, Akihiro Hayashi, Max Grossman, Vivek Sarkar, International IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2), November 2018. (co-located with SC18) [DOI](https://doi.org/10.1109/ESPM2.2018.00010)
 
-1. **Exploration of Supervised Machine Learning Techniques for Runtime Selection of CPU vs. GPU Execution in Java Programs**. Gloria Kim, Akihiro Hayashi, Vivek Sarkar. Fourth Workshop on Accelerator Programming Using Directives (WACCPD), November 2017. (co-located with SC17)
+1. **Exploration of Supervised Machine Learning Techniques for Runtime Selection of CPU vs. GPU Execution in Java Programs**. Gloria Kim, Akihiro Hayashi, Vivek Sarkar. Fourth Workshop on Accelerator Programming Using Directives (WACCPD), November 2017. (co-located with SC17) [DOI](https://doi.org/10.1007/978-3-319-74896-2_7)
 
-1. **Chapel-on-X: Exploring Tasking Runtimes for PGAS Languages**. Akihiro Hayashi, Sri Raj Paul, Max Grossman, Jun Shirako, Vivek Sarkar. Third IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2), November 2017. (co-located with SC17)
+1. **Chapel-on-X: Exploring Tasking Runtimes for PGAS Languages**. Akihiro Hayashi, Sri Raj Paul, Max Grossman, Jun Shirako, Vivek Sarkar. Third IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2), November 2017. (co-located with SC17) [DOI](https://doi.org/10.1145/3152041.3152086)
 
-1. **Exploring Compiler Optimization Opportunities for the OpenMP 4.x Accelerator Model on a POWER8+GPU Platform**. Akihiro Hayashi, Jun Shirako, Ettore Tiotto, Robert Ho, Vivek Sarkar. Third Workshop on Accelerator Programming Using Directives (WACCPD), November 2016. (co-located with SC16)
+1. **Exploring Compiler Optimization Opportunities for the OpenMP 4.x Accelerator Model on a POWER8+GPU Platform**. Akihiro Hayashi, Jun Shirako, Ettore Tiotto, Robert Ho, Vivek Sarkar. Third Workshop on Accelerator Programming Using Directives (WACCPD), November 2016. (co-located with SC16) [DOI](https://doi.org/10.1109/WACCPD.2016.011)
 
-1. **LLVM-based Communication Optimizations for PGAS Programs**. Akihiro Hayashi, Jisheng Zhao, Michael Ferguson, Vivek Sarkar. 2nd Workshop on the LLVM Compiler Infrastructure in HPC (LLVM), November, 2015. (co-located with SC15)
+1. **LLVM-based Communication Optimizations for PGAS Programs**. Akihiro Hayashi, Jisheng Zhao, Michael Ferguson, Vivek Sarkar. 2nd Workshop on the LLVM Compiler Infrastructure in HPC (LLVM), November, 2015. (co-located with SC15) [DOI](https://doi.org/10.1145/2833157.2833164)
 
 1. **LLVM Optimizations for PGAS Programs -Case Study: LLVM Wide Optimization in Chapel-**. Akihiro Hayashi, Rishi Surendran, Jisheng Zhao, Michael Ferguson, Vivek Sarkar. 1st Chapel Implementers and Users Workshop (CHIUW2014), May 2014. (co-located with IPDPS)
 
-1. **Speculative Execution of Parallel Programs with Precise Exception Semantics on GPUs**. Akihiro Hayashi, Max Grossman, Jisheng Zhao, Jun Shirako, Vivek Sarkar. 26th International Workshop on Languages and Compilers for Parallel Computing (LCPC2013), September 2013. (co-located with CnC).
+1. **Speculative Execution of Parallel Programs with Precise Exception Semantics on GPUs**. Akihiro Hayashi, Max Grossman, Jisheng Zhao, Jun Shirako, Vivek Sarkar. 26th International Workshop on Languages and Compilers for Parallel Computing (LCPC2013), September 2013. (co-located with CnC) [DOI](https://doi.org/10.1007/978-3-319-09967-5_20)
 
 1. **Reconciling Application Power Control and Operating Systems for Optimal Power and Performance**. Dominic Hillenbrand, Yuuki Furuyama, Akihiro Hayashi, Mikami Hiroki, Keiji Kimura, Hironori Kasahara. 8th International Workshop on Reconfigurable Communication-centric Systemson-Chip (ReCoSoC2013), Germany, 2013.
 

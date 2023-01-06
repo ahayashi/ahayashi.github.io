@@ -7,9 +7,9 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
-1. **Automatic Parallelization of Python programs for Distributed Heterogeneous Computing**. Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov and Vivek Sarkar. 28th International European Conference on Parallel and Distributed Computing (Euro-Par2022), August 2022.
+1. **Automatic Parallelization of Python programs for Distributed Heterogeneous Computing**. Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov and Vivek Sarkar. 28th International European Conference on Parallel and Distributed Computing (Euro-Par2022), August 2022. [DOI](https://doi.org/10.1007/978-3-031-12597-3_22)
 
-1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022), June 2022.
+1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022), June 2022. [DOI](https://doi.org/10.1007/978-3-031-08751-6_17)
 
 1. **Qulacs: a fast and versatile quantum circuit simulator for research purpose**. Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro Nakadai, Jiabao Chen, Ken M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya O. Nakagawa, Yohei Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi, Keisuke Fujii. Quantum Journal (Quantum 5, 559). [DOI](https://doi.org/10.22331/q-2021-10-06-559)
 
@@ -51,9 +51,9 @@ Publications
 
 #### Workshop Proceedings
 
-1. **A Multi-Level Platform-Independent GPU API for High-Level Programming Models**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar, HPC on Heterogeneous Hardware Workshop (H3), June 2022. (co-located with ISC22)
+1. **A Multi-Level Platform-Independent GPU API for High-Level Programming Models**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar, HPC on Heterogeneous Hardware Workshop (H3), June 2022. (co-located with ISC22) [DOI](https://doi.org/10.1007/978-3-031-23220-6_7)
 
-1. **Integrating Inter-Node Communication with a Resilient Asynchronous Many-Task Runtime System**. Sri Raj Paul, Akihiro Hayashi, Matthew Whitlock, Seonmyeong Back, Keita Teranishi, Jackson Mayo, Max Grossman, Vivek Sarkar, International IEEE workshop on Exascale MPI (ExaMPI), November 2020. (co-located with SC20)
+1. **Integrating Inter-Node Communication with a Resilient Asynchronous Many-Task Runtime System**. Sri Raj Paul, Akihiro Hayashi, Matthew Whitlock, Seonmyeong Back, Keita Teranishi, Jackson Mayo, Max Grossman, Vivek Sarkar, International IEEE workshop on Exascale MPI (ExaMPI), November 2020. (co-located with SC20) [DOI](https://doi.org/10.1109/ExaMPI52011.2020.00010)
 
 1. **GPUIterator: bridging the gap between Chapel and native languages**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, The ACM SIGPLAN 6th Annual Chapel Implementers and Users Workshop (CHIUW), June 2019. (co-located with PLDI2019/ACM FCRC2019) [DOI](https://doi.org/10.1145/3329722.3330142)
 

@@ -3,7 +3,8 @@ Professional Committees
 
 ### Conference Committees
 
-- Program Committee Member, The 9th Annual Chapel Implementers and Users Workshop (CHIUW), June 2022.
+- Program Committee Member, 29th International European Conference on Paralleland Distributed Computing (Euro-Par), August 2023.
+- Program Committee Member, 9th Annual Chapel Implementers and Users Workshop (CHIUW), June 2022.
 - External Review Committee Member, 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), February 2022.
 - Program Committee Member, 31st Annual International Conference on Computer Science and Software Engineering (CASCON), November 2021
 - Program Committee Member, Workshop on Programming Environments for Heterogeneous Computing (PEHC), November 2021 (co-located with SC2021)

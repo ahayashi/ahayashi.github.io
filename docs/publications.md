@@ -31,9 +31,9 @@ Publications
 
 1. **Accelerating Habanero-Java Program with OpenCL Generation**. Akihiro Hayashi, Max Grossman, Jisheng Zhao, Jun Shirako, Vivek Sarkar. 10th International Conference on the Principles and Practice of Programming in Java (PPPJ2013), September 2013. [DOI](https://doi.org/10.1145/2500828.2500840)
 
-1. **Automatic Parallelization, Performance Predictability and Power Control for Mobile-Applications**. Dominic Hillenbrand, Akihiro Hayashi, Hideo Yamamoto, Keiji Kimura, Hironori Kasahara. 16th IEEE Symposium on Low-Power and High-Speed Chips (CoolChips XVI), April 2013.
+1. **Automatic Parallelization, Performance Predictability and Power Control for Mobile-Applications**. Dominic Hillenbrand, Akihiro Hayashi, Hideo Yamamoto, Keiji Kimura, Hironori Kasahara. 16th IEEE Symposium on Low-Power and High-Speed Chips (CoolChips XVI), April 2013. [DOI](https://doi.org/10.1109/CoolChips.2013.6547919)
 
-1. **Parallelization of Automotive Engine Control Software On Embedded Multi-core Processor Using OSCAR Compiler**. Yohei Kanehagi, Dan Umeda, Akihiro Hayashi, Keiji Kimura and Hironori Kasahara, 16th IEEE Symposium on Low-Power and High-Speed Chips (CoolChips XVI), April 2013.
+1. **Parallelization of Automotive Engine Control Software On Embedded Multi-core Processor Using OSCAR Compiler**. Yohei Kanehagi, Dan Umeda, Akihiro Hayashi, Keiji Kimura and Hironori Kasahara, 16th IEEE Symposium on Low-Power and High-Speed Chips (CoolChips XVI), April 2013. [DOI](https://doi.org/10.1109/CoolChips.2013.6547921)
 
 1. **Parallel processing of multimedia applications on TILEPro64 using OSCAR API for embedded multicore**. Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura and Hironori Kasahara, IPSJ Symposium on Embedded System (ESS2012), October 2012. (in Japanese)
 
@@ -41,13 +41,13 @@ Publications
 
 1. **Parallelizing Compiler Framework and API for Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, IPSJ Transactions on Advanced Computing Systems (ACS), Vol.5, No.1, pp.68-79, November. 2011. (in Japanese)
 
-1. **A Parallelizing Compiler Cooperative Heterogeneous Multicore Processor Architecture**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, and Hironori Kasahara, Transactions on High-Performance Embedded Architectures and Compilers IV (HiPEAC IV), Lecture Note in Computer Science, Springer, Vol. 6760, pp. 215-233, November 2011.
+1. **A Parallelizing Compiler Cooperative Heterogeneous Multicore Processor Architecture**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, and Hironori Kasahara, Transactions on High-Performance Embedded Architectures and Compilers IV (HiPEAC IV), Lecture Note in Computer Science, Springer, Vol. 6760, pp. 215-233, November 2011. [DOI](https://doi.org/10.1007/978-3-642-24568-8_11)
 
 1. **A 45nm Heterogeneous Multi-core SoC Supporting an over 32-bits Physical Address Space for Digital Appliance**. Takumi Nito, Yoichi Yuyama, Masayuki Ito, Yoshikazu Kiyoshige, Yusuke Nitta, Osamu Nishii, Atsushi Hasegawa, Makoto Ishikawa, Tetsuya Yamada, Junichi Miyakoshi, Koichi Terada, Tohru Nojiri, Masashi Takada, Makoto Satoh, Hiroyuki Mizuno, Kunio Uchiyama, Yasutaka Wada, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara, Hideo Maejima,13th IEEE Symposium on Low-power and High-Speed Chips (COOL Chips XIII), April 2010.
 
 1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008 (in Japanese)
 
-1. **Software-Cooperative Power-Efficient Heterogeneous Multi-Core for Media Processing**. Hiroaki Shikano, Masaki Ito, Kunio Uchiyama, Toshihiko Odaka,Akihiro Hayashi, Takeshi Masuura, Masayoshi Mase, Jun Shirako, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 13th Asia and South Pacific Design Automation Conference (ASP-DAC2008), January 2008.
+1. **Software-Cooperative Power-Efficient Heterogeneous Multi-Core for Media Processing**. Hiroaki Shikano, Masaki Ito, Kunio Uchiyama, Toshihiko Odaka,Akihiro Hayashi, Takeshi Masuura, Masayoshi Mase, Jun Shirako, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 13th Asia and South Pacific Design Automation Conference (ASP-DAC2008), January 2008. [DOI](https://doi.org/10.1109/ASPDAC.2008.4484049)
 
 #### Workshop Proceedings
 
@@ -71,7 +71,7 @@ Publications
 
 1. **Speculative Execution of Parallel Programs with Precise Exception Semantics on GPUs**. Akihiro Hayashi, Max Grossman, Jisheng Zhao, Jun Shirako, Vivek Sarkar. 26th International Workshop on Languages and Compilers for Parallel Computing (LCPC2013), September 2013. (co-located with CnC) [DOI](https://doi.org/10.1007/978-3-319-09967-5_20)
 
-1. **Reconciling Application Power Control and Operating Systems for Optimal Power and Performance**. Dominic Hillenbrand, Yuuki Furuyama, Akihiro Hayashi, Mikami Hiroki, Keiji Kimura, Hironori Kasahara. 8th International Workshop on Reconfigurable Communication-centric Systemson-Chip (ReCoSoC2013), Germany, 2013.
+1. **Reconciling Application Power Control and Operating Systems for Optimal Power and Performance**. Dominic Hillenbrand, Yuuki Furuyama, Akihiro Hayashi, Mikami Hiroki, Keiji Kimura, Hironori Kasahara. 8th International Workshop on Reconfigurable Communication-centric Systemson-Chip (ReCoSoC2013), Germany, 2013. [DOI](https://doi.org/10.1109/ReCoSoC.2013.6581539)
 
 1. **Automatic Parallelization of Hand Written Automotive Engine Control Codes Using OSCAR Compiler**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Keiji Kimura and Hironori Kasahara. 17th Workshop on Compilers for Parallel Computing (CPC2013), July 2013.
 
@@ -81,9 +81,9 @@ Publications
 
 1. **OSCAR Parallelizing Compiler and API for Real-time Low Power Heterogeneous Multicores**. Akihiro Hayashi, Mamoru Shimaoka, Hiroki Mikmi, Masayoshi Mase, Yasutaka Wada, Jun Shirako, Keiji Kimura, and Hironori Kasahara, 16th Workshop on Compilers for Parallel Computing (CPC2012), January 2012.
 
-1. **Evaluation of Power Consumption at Execution of Multiple Automatically Parallelized and Power Controlled Media Applications on the RP2 Low-power Multicore**. Hiroki Mikami, Shumpei Kitaki, Masayoshi Mase, Akihiro Hayashi, Mamoru Shimaoka, Keiji Kimura, Masato Edahiro, and Hironori Kasahara, 24th International Workshop on Languages and Compilers for Parallel Computing (LCPC2011), September 2011.
+1. **Evaluation of Power Consumption at Execution of Multiple Automatically Parallelized and Power Controlled Media Applications on the RP2 Low-power Multicore**. Hiroki Mikami, Shumpei Kitaki, Masayoshi Mase, Akihiro Hayashi, Mamoru Shimaoka, Keiji Kimura, Masato Edahiro, and Hironori Kasahara, 24th International Workshop on Languages and Compilers for Parallel Computing (LCPC2011), September 2011. [DOI](https://doi.org/10.1007/978-3-642-36036-7_3)
 
-1. **Parallelizing Compiler Framework and API for Power Reduction and Software Productivity of Real-time Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, 23rd International Workshop on Languages and Compilers for Parallel Computing (LCPC2010), October 2010.
+1. **Parallelizing Compiler Framework and API for Power Reduction and Software Productivity of Real-time Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, 23rd International Workshop on Languages and Compilers for Parallel Computing (LCPC2010), October 2010. [DOI](https://doi.org/10.1007/978-3-642-19595-2_13)
 
 1. **Performance of OSCAR Multigrain Parallelizing Compiler on Multicore Processors**. Hiroki Mikami, Jun Shirako, Masayoshi Mase, Takamichi Miyamoto, Hirofumi Nakano, Fumiyo Takano, Akihiro Hayashi, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 14th Workshop on Compilers for Parallel Computing(CPC2009), January 2009.
 

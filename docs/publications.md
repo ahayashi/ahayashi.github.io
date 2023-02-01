@@ -124,11 +124,19 @@ Publications
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
 ### Presentations
+1. **A Cooperative Compiler and Runtime Checkpoint/Restart Approach for Kokkos**. Akihiro Hayashi, Matthew Whitlock, Sri Raj Paul, Nicolas Morales, Keita Teranishi, Vivek Sarkar, 2022 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP22), February 2022.
+
 1. **GPUAPI: Multi-level Chapel Runtime API for GPUs**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 8th Annual Chapel Implementers and Users Workshop (CHIUW), June 2021.
 
 1. **Exploring a multi-resolution GPU programming model for Chapel**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 7th Annual Chapel Implementers and Users Workshop (CHIUW), May 2020. (co-located with IPDPS2020)
 
-1. **Resilience With Asynchronous Many Task (AMT) Programming Models**. SIAM Conference on Parallel Processing for Scientific Computing
+1. **Composing Asynchrony, Communication and Resilience**. Sri Raj Paul, Akihiro Hayashi, Nicole Slattengren, Hemanth Kolla, Seonmyeong Bak, Matthew Whitlock, Jackson Mayo, Keita Teranishi, Vivek Sarkar and Max Grossman. 2020 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP20)
+
+1. **Scalable Efficient Fault Tolerance in Asynchronous Many Task (AMT) Programming Models**. Keita Teranishi, Hemanth Kolla, Nicole Slattengren, Mayo Jackson, Sri Raj Paul, Akihiro Hayashi, Vivek Sarkar, Seonmyeong Bak. 2019 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP19)
+
+1. **Fault Tolerance in AMT Programming Models & Runtimes**. Hemanth Kolla, Keita Teranishi, Nicole Slattengren, Matthew Whitlock, Jackson Mayo, Sri Raj Paul, Akihiro Hayashi, Vivek Sarkar. 2018 ACM Conference on Platform for Advanced Scientific Computing (PASC2018)
+
+1. **Resilience With Asynchronous Many Task (AMT) Programming Models**. Sanjay Chatterjee, Keita Teranishi, Vivek Sarkar, Akihiro Hayashi. 2018 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP18)
 
 1. **Machine-learning-based Performance Heuristics for Runtime CPU/GPU Selection in Java**. 10th Workshop on Challenges for Parallel Computing, November 2015. (co- located with CASCON2015)
 

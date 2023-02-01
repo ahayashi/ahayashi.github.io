@@ -91,6 +91,18 @@ Publications
 
 ### Refereed Posters
 
+1. **Extending OMR with Explicit and Automatic Runtime SIMD/GPU Parallelization**. Akihiro Hayashi, Tong Zhou, Gita Koblents, Jimmy Kwa, Kazuaki Ishizaki, Vivek Sarkar. 30th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2020
+
+1. **Kokkos-HClib: enabling high-performance and resiliency for HPC systems**. Akihiro Hayashi, Sri Raj Paul, Matthew Whitlock, Nicolas Morales, Jeff Miles, Keita Teranishi, Vivek Sarkar. 2020 DOE Performance, Portability, and Productivity in HPC Forum (P3HPC 2020), September 2020
+
+1. **Runtime Automatic Parallelization of JVM and OMR Applications**. Akihiro Hayashi, Gita Koblents, Kazuaki Ishizaki, Jimmy Kwa, Vivek Sarkar. 29th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2019
+
+1. **Runtime Automatic Parallelization of JVM Applications**. Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Housfater, Jimmy Kwa, Vivek Sarkar. 28th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2018 (Won the best exhibit out of 72 exhibits)
+
+1. **Runtime Automatic Parallelization of JVM Applications**. Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Housfater, Jimmy Kwa, Vivek Sarkar. 27th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2017 (Won the best exhibit out of 68 exhibits)
+
+1. **Tackling GPU Programmability and Profitability Using IBM JIT Code Generation and Performance Prediction**. Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Housfater, Jimmy Kwa, Vivek Sarkar. 26th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2016
+
 1. **How Java runtime can execute practical Java programs on GPU**. Kazuaki Ishizaki,Gita Koblents,Akihiro Hayashi,Vivek Sarkar,Hiroshi Inoue. Poster Session, IPSJ Symposium on High Performance Computing and Computer Science (HPCS2015), May 2015. (in Japanese)
 
 1. **Parallel Processing of Multimedia Applications on TILEPro64**. Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara. 16th IEEE Symposium on Low Power and High-Speed Chips (COOL Chips XVI), April 2013.

@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 author: Akihiro Hayashi
+fontfamilyoptions: sfdefault
 header-includes: |
     \usepackage[margin=0.75in]{geometry}
     \usepackage[T1]{fontenc}

@@ -1,4 +1,9 @@
 site_name: Akihiro Hayashi
+site_url: https://ahayashi.github.io/
+repo_name: ahayashi
+repo_url: https://github.com/ahayashi/ahayashi.github.io/
+edit_uri: blob/mkdocs/docs/
+docs_dir: docs
 
 theme:
   name: material

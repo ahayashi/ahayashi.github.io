@@ -4,7 +4,6 @@ author: Akihiro Hayashi
 header-includes: |
     \usepackage[margin=0.75in]{geometry}
     \usepackage[T1]{fontenc}
-    \usepackage{tgbonum}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhf{}

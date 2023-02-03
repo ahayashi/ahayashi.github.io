@@ -7,6 +7,8 @@ docs_dir: docs
 
 theme:
   name: material
+  features:
+    - content.action.edit
 
   # 404 page
   static_templates:

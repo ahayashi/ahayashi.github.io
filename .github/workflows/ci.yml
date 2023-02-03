@@ -11,8 +11,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: docker://pandoc/latex:latest
         with:
-          args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex --variable mainfont="DejaVu Sans" -o docs/cv/Akihiro-CV-Auto.pdf
+          args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -o docs/cv/Akihiro-CV-Auto.pdf
       - run: |
+          fc-list :outline -f "%{family}\n"
           git add docs/cv/Akihiro-CV-Auto.pdf
           git config --global user.name 'Akihiro Hayashi'
           git config --global user.email 'ahayashi@gatech.edu'

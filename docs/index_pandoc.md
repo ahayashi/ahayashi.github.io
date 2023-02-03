@@ -3,8 +3,6 @@ title: Curriculum Vitae
 author: Akihiro Hayashi
 header-includes: |
     \usepackage[margin=0.75in]{geometry}
-    \usepackage[T1]{fontenc}
-    \usepackage[sfdefault]{merriweather}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhf{}

@@ -7,6 +7,8 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
+1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science (to appear).
+
 1. **Automatic Parallelization of Python programs for Distributed Heterogeneous Computing**. Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov and Vivek Sarkar. 28th International European Conference on Parallel and Distributed Computing (Euro-Par2022), August 2022. [DOI](https://doi.org/10.1007/978-3-031-12597-3_22)
 
 1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022), June 2022. [DOI](https://doi.org/10.1007/978-3-031-08751-6_17)

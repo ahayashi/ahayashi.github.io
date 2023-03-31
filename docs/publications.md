@@ -55,7 +55,7 @@ Publications
 
 1. **Enabling Multi-threading in Heterogeneous Quantum-Classical Programming Models**. Akihiro Hayashi, Austin Adams, Jeffrey Young, Alexander McCaskey, Eugene Dumitrescu, Vivek Sarkar, Thomas M. Conte, IPDPS Workshop on Quantum Computing Algorithms, Systems, and Applications (Q-CASA, co-located with IPDPS'23). May 2023.
 
-1. **Highly Scalable Large-Scale Asynchronous Graph Processing using Actors**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE Challenge 2023, co-located with CCGRID23), May 2023.
+1. **Highly Scalable Large-Scale Asynchronous Graph Processing using Actors**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2023, co-located with CCGRID23), May 2023.
 
 1. **A Multi-Level Platform-Independent GPU API for High-Level Programming Models**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar, HPC on Heterogeneous Hardware Workshop (H3), June 2022. (co-located with ISC22) [DOI](https://doi.org/10.1007/978-3-031-23220-6_7)
 

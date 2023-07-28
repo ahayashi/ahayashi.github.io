@@ -44,7 +44,8 @@ Professional Committees
 
 ### Journal Editors
 
-- Guest Associate Editor, IEICE (The Institute of Electronics, Information and Communication Engineers) Special Section on Low-Power and High-Speed Chips (2022)
+- Associate Editor, IEICE Transactions on Information and Systems (2023-)
+- Guest Associate Editor, IEICE (The Institute of Electronics, Information and Communication Engineers) Special Section on Low-Power and High-Speed Chips (2022-)
 
 ### External Reviewers
 

@@ -129,7 +129,7 @@ Publications
 
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
-### Presentations
+### Refereed Presentations
 1. **Enabling CHIP-SPV in Chapel GPUAPI module**. Jisheng Zhao, Akihiro Hayashi, Brice Videau, Vivek Sarkar. The 10th Annual Chapel Implementers and Users Workshop (CHIUW 2023), June 2023.
 
 1. **Accelerating CHAMPS on GPUs**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar. The 9th Annual Chapel Implementers and Users Workshop (CHIUW 2022), June 2022.

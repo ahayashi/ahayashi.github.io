@@ -130,6 +130,10 @@ Publications
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
 ### Presentations
+1. **Enabling CHIP-SPV in Chapel GPUAPI module**. Jisheng Zhao, Akihiro Hayashi, Brice Videau, Vivek Sarkar. The 10th Annual Chapel Implementers and Users Workshop (CHIUW 2023), June 2023.
+
+1. **Accelerating CHAMPS on GPUs**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar. The 9th Annual Chapel Implementers and Users Workshop (CHIUW 2022), June 2022.
+
 1. **A Cooperative Compiler and Runtime Checkpoint/Restart Approach for Kokkos**. Akihiro Hayashi, Matthew Whitlock, Sri Raj Paul, Nicolas Morales, Keita Teranishi, Vivek Sarkar, 2022 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP22), February 2022.
 
 1. **GPUAPI: Multi-level Chapel Runtime API for GPUs**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 8th Annual Chapel Implementers and Users Workshop (CHIUW), June 2021.

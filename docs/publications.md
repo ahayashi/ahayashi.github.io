@@ -61,6 +61,8 @@ Publications
 
 1. **Integrating Inter-Node Communication with a Resilient Asynchronous Many-Task Runtime System**. Sri Raj Paul, Akihiro Hayashi, Matthew Whitlock, Seonmyeong Back, Keita Teranishi, Jackson Mayo, Max Grossman, Vivek Sarkar, International IEEE workshop on Exascale MPI (ExaMPI), November 2020. (co-located with SC20) [DOI](https://doi.org/10.1109/ExaMPI52011.2020.00010)
 
+1. **Exploring a multi-resolution GPU programming model for Chapel**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 7th Annual Chapel Implementers and Users Workshop (CHIUW), May 2020. (co-located with IPDPS2020) [DOI](https://doi.org/10.1109/IPDPSW50202.2020.00117)
+
 1. **GPUIterator: bridging the gap between Chapel and native languages**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, The ACM SIGPLAN 6th Annual Chapel Implementers and Users Workshop (CHIUW), June 2019. (co-located with PLDI2019/ACM FCRC2019) [DOI](https://doi.org/10.1145/3329722.3330142)
 
 1. **A Unified Runtime for PGAS and Event-Driven Programming**. Sri Raj Paul, Kun Chen, Akihiro Hayashi, Max Grossman, Vivek Sarkar, International IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2), November 2018. (co-located with SC18) [DOI](https://doi.org/10.1109/ESPM2.2018.00010)
@@ -130,15 +132,14 @@ Publications
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
 ### Refereed Presentations
+
 1. **Enabling CHIP-SPV in Chapel GPUAPI module**. Jisheng Zhao, Akihiro Hayashi, Brice Videau, Vivek Sarkar. The 10th Annual Chapel Implementers and Users Workshop (CHIUW 2023), June 2023.
 
 1. **Accelerating CHAMPS on GPUs**. Akihiro Hayashi, Sri Raj Paul and Vivek Sarkar. The 9th Annual Chapel Implementers and Users Workshop (CHIUW 2022), June 2022.
 
 1. **A Cooperative Compiler and Runtime Checkpoint/Restart Approach for Kokkos**. Akihiro Hayashi, Matthew Whitlock, Sri Raj Paul, Nicolas Morales, Keita Teranishi, Vivek Sarkar, 2022 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP22), February 2022.
 
-1. **GPUAPI: Multi-level Chapel Runtime API for GPUs**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 8th Annual Chapel Implementers and Users Workshop (CHIUW), June 2021.
-
-1. **Exploring a multi-resolution GPU programming model for Chapel**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 7th Annual Chapel Implementers and Users Workshop (CHIUW), May 2020. (co-located with IPDPS2020)
+1. **GPUAPI: Multi-level Chapel Runtime API for GPUs**. Akihiro Hayashi, Sri Raj Paul, Vivek Sarkar, 8th Annual Chapel Implementers and Users Workshop (CHIUW), June 2021. 
 
 1. **Composing Asynchrony, Communication and Resilience**. Sri Raj Paul, Akihiro Hayashi, Nicole Slattengren, Hemanth Kolla, Seonmyeong Bak, Matthew Whitlock, Jackson Mayo, Keita Teranishi, Vivek Sarkar and Max Grossman. 2020 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP20)
 

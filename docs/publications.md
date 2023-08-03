@@ -7,6 +7,8 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
+1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. The 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH). October 2023.
+
 1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science, April 2023. [DOI](https://doi.org/10.1016/j.jocs.2023.102014)
 
 1. **Automatic Parallelization of Python programs for Distributed Heterogeneous Computing**. Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov and Vivek Sarkar. 28th International European Conference on Parallel and Distributed Computing (Euro-Par2022), August 2022. [DOI](https://doi.org/10.1007/978-3-031-12597-3_22)

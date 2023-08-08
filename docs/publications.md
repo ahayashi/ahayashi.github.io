@@ -55,7 +55,7 @@ Publications
 
 #### Workshop Proceedings
 
-1. **Enabling Multi-threading in Heterogeneous Quantum-Classical Programming Models**. Akihiro Hayashi, Austin Adams, Jeffrey Young, Alexander McCaskey, Eugene Dumitrescu, Vivek Sarkar, Thomas M. Conte, IPDPS Workshop on Quantum Computing Algorithms, Systems, and Applications (Q-CASA, co-located with IPDPS'23). May 2023.
+1. **Enabling Multi-threading in Heterogeneous Quantum-Classical Programming Models**. Akihiro Hayashi, Austin Adams, Jeffrey Young, Alexander McCaskey, Eugene Dumitrescu, Vivek Sarkar, Thomas M. Conte, IPDPS Workshop on Quantum Computing Algorithms, Systems, and Applications (Q-CASA, co-located with IPDPS'23). May 2023. [DOI](https://ieeexplore.ieee.org/document/10196570)
 
 1. **Highly Scalable Large-Scale Asynchronous Graph Processing using Actors**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2023, co-located with CCGRID23), May 2023. [DOI](https://doi.org/10.1109/CCGridW59191.2023.00049)
 

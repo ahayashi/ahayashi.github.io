@@ -7,7 +7,7 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
-1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH). October 2023.
+1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH). October 2023. [DOI](https://doi.org/10.1145/3617651.3622992)
 
 1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science, April 2023. [DOI](https://doi.org/10.1016/j.jocs.2023.102014)
 

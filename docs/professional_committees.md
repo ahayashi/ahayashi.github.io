@@ -31,7 +31,8 @@ Professional Committees
 - Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012).
 
 ### Journal Reviewers
-
+- Journal of Cybersecurity and Privacy (JCP)(2023)
+- PLOS ONE (2023)
 - IEEE Micro (2022)
 - ACM Transactions on Architecture and Code Optimization (TACO) (2021, 2022)
 - ACM Transactions on Programming Languages and Systems (TOPLAS) (2018)

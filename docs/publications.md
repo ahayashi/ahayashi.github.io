@@ -7,6 +7,8 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
+1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC). May 2024. (to appear)
+
 1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH). October 2023. [DOI](https://doi.org/10.1145/3617651.3622992)
 
 1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science, April 2023. [DOI](https://doi.org/10.1016/j.jocs.2023.102014)
@@ -55,6 +57,8 @@ Publications
 
 #### Workshop Proceedings
 
+1. **A Distributed, Asynchronous Algorithm for Large-Scale Internet Network Topology Analysis.** Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2024, co-located with CCGRID24), May 2024.
+
 1. **Enabling Multi-threading in Heterogeneous Quantum-Classical Programming Models**. Akihiro Hayashi, Austin Adams, Jeffrey Young, Alexander McCaskey, Eugene Dumitrescu, Vivek Sarkar, Thomas M. Conte, IPDPS Workshop on Quantum Computing Algorithms, Systems, and Applications (Q-CASA, co-located with IPDPS'23). May 2023. [DOI](https://ieeexplore.ieee.org/document/10196570)
 
 1. **Highly Scalable Large-Scale Asynchronous Graph Processing using Actors**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2023, co-located with CCGRID23), May 2023. [DOI](https://doi.org/10.1109/CCGridW59191.2023.00049)
@@ -101,6 +105,10 @@ Publications
 
 ### Refereed Posters
 
+1. **Bottleneck Analysis of Conveyors**. Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS24). May 2024.
+
+1. **Accelerating Actor-Based Distributed Triangle Counting**. Aniruddha Mysore, Kaushik Ravichandran, Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar**. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC23). November 2023. [LINK](https://sc23.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost187.html)]
+
 1. **Extending OMR with Explicit and Automatic Runtime SIMD/GPU Parallelization**. Akihiro Hayashi, Tong Zhou, Gita Koblents, Jimmy Kwa, Kazuaki Ishizaki, Vivek Sarkar. 30th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2020
 
 1. **Kokkos-HClib: enabling high-performance and resiliency for HPC systems**. Akihiro Hayashi, Sri Raj Paul, Matthew Whitlock, Nicolas Morales, Jeff Miles, Keita Teranishi, Vivek Sarkar. 2020 DOE Performance, Portability, and Productivity in HPC Forum (P3HPC 2020), September 2020
@@ -113,11 +121,11 @@ Publications
 
 1. **Tackling GPU Programmability and Profitability Using IBM JIT Code Generation and Performance Prediction**. Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Housfater, Jimmy Kwa, Vivek Sarkar. 26th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2016
 
-1. **How Java runtime can execute practical Java programs on GPU**. Kazuaki Ishizaki,Gita Koblents,Akihiro Hayashi,Vivek Sarkar,Hiroshi Inoue. Poster Session, IPSJ Symposium on High Performance Computing and Computer Science (HPCS2015), May 2015. (in Japanese)
+1. **How Java runtime can execute practical Java programs on GPU**. Kazuaki Ishizaki, Gita Koblents, Akihiro Hayashi, Vivek Sarkar, Hiroshi Inoue. Poster Session, IPSJ Symposium on High Performance Computing and Computer Science (HPCS2015), May 2015. (in Japanese)
 
 1. **Parallel Processing of Multimedia Applications on TILEPro64**. Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara. 16th IEEE Symposium on Low Power and High-Speed Chips (COOL Chips XVI), April 2013.
 
-1. **Opportunities and Challenges of Application-Power Control in the Age of Dark Silicon**. Dominic Hillenbrand, Yuuki Furuyama, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara. 8th international conference on High-Performance and Embedded Architectures and Compilers (HiPEAC2013), January 2013.
+1. **Opportunities and Challenges of Application-Power Control in the Age of Dark Silicon**. Dominic Hillenbrand, Yuuki Furuyama, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara. 8th International Conference on High-Performance and Embedded Architectures and Compilers (HiPEAC2013), January 2013.
 
 1. **OSCAR Parallelizing Compiler Cooperative Heterogeneous Multi-core Architecture**. Akihiro Hayashi, Yasutaka Wada, Hiroaki Shikano, Teruo Kamiayama, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, 18th International Conference on Parallel Architectures and Compilation Techniques (PACT2009), September 2009.
 
@@ -134,6 +142,8 @@ Publications
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
 ### Refereed Presentations
+
+1. **Fine-grained-Asynchronous Bulk-Synchronous Processing for Graph Analytics**. Vivek Sarkar and Akihiro Hayashi. 2024 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP24), March 2024.
 
 1. **Enabling CHIP-SPV in Chapel GPUAPI module**. Jisheng Zhao, Akihiro Hayashi, Brice Videau, Vivek Sarkar. The 10th Annual Chapel Implementers and Users Workshop (CHIUW 2023), June 2023.
 
@@ -183,7 +193,7 @@ Publications
 
 1. **A Compiler Framework for Heterogeneous Multicores for Consumer Electronics**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Keiji Kimura, Masayuki Ito, Jun Hasegawa, Makoto Sato, Toru Nojiri, Ku- nio Uchiyama, Hironori Kasahara. Technical Report of IPSJ, Vol.2010-ARC- 190-7 (SWoPP2010), August 2010. (in Japanese)
 
-1. **Performance of Power Reduc- tion Scheme by a Compiler on Heterogeneous Multicore for Consumer Electronics RP-X**. Yasutaka Wada, Akihiro Hayashi, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura, Masayuki Ito, Jun Hasegawa, Makoto Sato, Toru Nojiri, Kunio Uchiyama, Hironori Kasahara, Technical Report of IPSJ, Vol.2010-ARC-190-8 (SWoPP2010), August 2010. (in Japanese)
+1. **Performance of Power Reduction Scheme by a Compiler on Heterogeneous Multicore for Consumer Electronics RP-X**. Yasutaka Wada, Akihiro Hayashi, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura, Masayuki Ito, Jun Hasegawa, Makoto Sato, Toru Nojiri, Kunio Uchiyama, Hironori Kasahara, Technical Report of IPSJ, Vol.2010-ARC-190-8 (SWoPP2010), August 2010. (in Japanese)
 
 1. **Performance Evaluation of Parallelizing Compiler Cooperated Heterogeneous Multicore Architecture Using Media Applications**. Teruo Kamiyama, Yasutaka Wada, Akihiro Hayashi, Masayoshi Mase, Hirofumi Nakano, Takeshi Watanabe, Keiji Kimura, Hironori Kasahara. Technical Report of IPSJ, Vol.2009-ARC-173, Jan. 2009. (in Japanese)
 

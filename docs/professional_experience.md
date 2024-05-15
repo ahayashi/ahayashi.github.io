@@ -40,6 +40,7 @@ Conducted research on automatic parallelization and power reduction techniques f
 - Fundamentals of FPGA Programming, Waseda University, Spring 2018 
 
 ### Awards
+- Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2024), May, 2024. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar)
 - Outstanding Research Scientist Award, College of Computing, Georgia Institute of Technology, 2024
 - Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2023), May, 2023. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar)
 - IEEE Senior Member, 2021

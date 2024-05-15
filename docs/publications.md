@@ -7,7 +7,7 @@ Publications
 ### Refereed Papers
 
 #### Conference and Journal Publications
-1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC High Performance). May 2024. [[doi](https://doi.org/10.23919/ISC.2024.10528922)]
+1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC High Performance). May 2024. [[DOI](https://doi.org/10.23919/ISC.2024.10528922)]
 
 1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH). October 2023. [DOI](https://doi.org/10.1145/3617651.3622992)
 

@@ -167,7 +167,7 @@ Publications
 
 ### Technical Reports
 
-1. **Resilient Asynchronous Many Task Programming Model**. Keita Teranishi, Hemanth Kolla, Nicole Lemaster Slattengren, Matthew Whitlock, Jackson Mayo, Robert L. Clay, Sri Raj Paul, Akihiro Hayashi, Vivek Sarkar, August, 2018.
+1. **Resilient Asynchronous Many Task Programming Model**. Keita Teranishi, Hemanth Kolla, Nicole Lemaster Slattengren, Matthew Whitlock, Jackson Mayo, Robert L. Clay, Sri Raj Paul, Akihiro Hayashi, Vivek Sarkar, August, 2018. [DOI](https://doi.org/10.2172/1469062)
 
 1. **Performance Evaluation of Hierarchical Barrier Hardware with OSCAR API Analyzer**. Akihiro Kawashima, Yohei Kanehagi, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara. Technical Report of IPSJ. V0l.2013-ARC-206-16 (SWoPP2013), July 2013. (in Japanese)
 

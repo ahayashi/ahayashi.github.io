@@ -6,34 +6,41 @@ Publications
 
 ### Refereed Papers
 
-#### Conference and Journal Publications
+#### Journal Publications
+1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science, April 2023. [DOI](https://doi.org/10.1016/j.jocs.2023.102014)
+
+1. **Qulacs: a fast and versatile quantum circuit simulator for research purpose**. Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro Nakadai, Jiabao Chen, Ken M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya O. Nakagawa, Yohei Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi, Keisuke Fujii. Quantum Journal (Quantum 5, 559). [DOI](https://doi.org/10.22331/q-2021-10-06-559)
+
+1. **Compiler-Support for Critical Data Persistence in NVM**. Reem Elkhouly, Mohammad Alshboul, Akihiro Hayashi, Yan Solihin, Keiji Kimura. ACM Transactions on Architecture and Code Optimization (TACO). [DOI](https://doi.org/10.1145/3371236)
+
+1. **Performance Evaluation of OpenMP’s Target Construct on GPUs**. Akihiro Hayashi, Jun Shirako, Ettore Tiotto, Robert Ho, Vivek Sarkar. International Journal of High Performance Computing and Networking (IJHPCN), Vol. 13, No. 1, 2019. [DOI](https://doi.org/10.1504/IJHPCN.2019.097051)
+
+1. **Automatic Parallelization of Designed Engine Control C Codes by MATLAB/Simulink**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori, Keiji Kimura, Kasahara Hironori, IPSJ Journal, August, 2014. (in Japanese)
+
+1. **Parallelizing Compiler Framework and API for Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, IPSJ Transactions on Advanced Computing Systems (ACS), Vol.5, No.1, pp.68-79, November. 2011. (in Japanese)
+
+1. **A Parallelizing Compiler Cooperative Heterogeneous Multicore Processor Architecture**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, and Hironori Kasahara, Transactions on High-Performance Embedded Architectures and Compilers IV (HiPEAC IV), Lecture Note in Computer Science, Springer, Vol. 6760, pp. 215-233, November 2011. [DOI](https://doi.org/10.1007/978-3-642-24568-8_11)
+
+1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008 (in Japanese)
+
+#### Conference Publications
 1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC High Performance). May 2024. [[DOI](https://doi.org/10.23919/ISC.2024.10528922)]
 
 1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH). October 2023. [DOI](https://doi.org/10.1145/3617651.3622992)
-
-1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science, April 2023. [DOI](https://doi.org/10.1016/j.jocs.2023.102014)
 
 1. **Automatic Parallelization of Python programs for Distributed Heterogeneous Computing**. Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov and Vivek Sarkar. 28th International European Conference on Parallel and Distributed Computing (Euro-Par2022), August 2022. [DOI](https://doi.org/10.1007/978-3-031-12597-3_22)
 
 1. **A Productive and Scalable Actor-based Programming System for PGAS Applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, and Vivek Sarkar. 22th International Conference on Computational Science (ICCS2022), June 2022. [DOI](https://doi.org/10.1007/978-3-031-08751-6_17)
 
-1. **Qulacs: a fast and versatile quantum circuit simulator for research purpose**. Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro Nakadai, Jiabao Chen, Ken M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya O. Nakagawa, Yohei Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi, Keisuke Fujii. Quantum Journal (Quantum 5, 559). [DOI](https://doi.org/10.22331/q-2021-10-06-559)
-
 1. **Towards Chapel-based Exascale Tree Search Algorithms: dealing with multiple GPU accelerators**. Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar. 18th International Conference on High Performance Computing & Simulation (HPCS2020)
 
-1. **Compiler-Support for Critical Data Persistence in NVM**. Reem Elkhouly, Mohammad Alshboul, Akihiro Hayashi, Yan Solihin, Keiji Kimura. ACM Transactions on Architecture and Code Optimization (TACO). [DOI](https://doi.org/10.1145/3371236)
-
 1. **Enabling Resilience in Asynchronous Many-Task Programming Models**. Sri Raj Paul, Akihiro Hayashi, Nicole Slattengren, Hemanth Kolla, Matthew Whitlock, Seonmyeong Bak, Keita Teranishi, Jackson Mayo, Vivek Sarkar. 25th International European Conference on Parallel and Distributed Computing (Euro-Par2019), August 2019. [DOI](https://doi.org/10.1007/978-3-030-29400-7_25)
-
-1. **Performance Evaluation of OpenMP’s Target Construct on GPUs**. Akihiro Hayashi, Jun Shirako, Ettore Tiotto, Robert Ho, Vivek Sarkar. International Journal of High Performance Computing and Networking (IJHPCN), Vol. 13, No. 1, 2019. [DOI](https://doi.org/10.1504/IJHPCN.2019.097051)
 
 1. **Optimized Two-level Parallelization for GPU Accelerators using the Polyhedral Model**. Jun Shirako, Akihiro Hayashi, Vivek Sarkar. 26th International Conference on Compiler Construction (CC2017), February 2017. [DOI](https://doi.org/10.1145/3033019.3033022)
 
 1. **Compiling and Optimizing Java 8 Programs for GPU Execution**. Kazuaki Ishizaki, Akihiro Hayashi, Gita Koblents, Vivek Sarkar. 24th International Conference on Parallel Architectures and Compilation Techniques (PACT2015), October 2015. [DOI](https://doi.org/10.1109/PACT.2015.46)
 
 1. **Machine-Learning-based Performance Heuristics for Runtime CPU/GPU Selection**. Akihiro Hayashi, Kazuaki Ishizaki, Gita Koblents, Vivek Sarkar. 12th International Conference on the Principles and Practice of Programming in Java (PPPJ2015), September 2015. [DOI](https://doi.org/10.1145/2807426.2807429)
-
-1. **Automatic Parallelization of Designed Engine Control C Codes by MATLAB/Simulink**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori, Keiji Kimura, Kasahara Hironori, IPSJ Journal, August, 2014. (in Japanese)
 
 1. **Accelerating Habanero-Java Program with OpenCL Generation**. Akihiro Hayashi, Max Grossman, Jisheng Zhao, Jun Shirako, Vivek Sarkar. 10th International Conference on the Principles and Practice of Programming in Java (PPPJ2013), September 2013. [DOI](https://doi.org/10.1145/2500828.2500840)
 
@@ -45,13 +52,7 @@ Publications
 
 1. **Automatic Parallelization of Dose Calculation Engine for A Particle Therapy**. Akihiro Hayashi, Takuji Matsumoto, Hiroki Mikami, Keiji Kimura, Keiji Yamamoto, Hironori Saki, Yasuyuki Takatani, Hironori Kasahara, IPSJ Symposium on High Performance Computing and Computer Science (HPCS2012), January 2012. (in Japanese)
 
-1. **Parallelizing Compiler Framework and API for Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, IPSJ Transactions on Advanced Computing Systems (ACS), Vol.5, No.1, pp.68-79, November. 2011. (in Japanese)
-
-1. **A Parallelizing Compiler Cooperative Heterogeneous Multicore Processor Architecture**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, and Hironori Kasahara, Transactions on High-Performance Embedded Architectures and Compilers IV (HiPEAC IV), Lecture Note in Computer Science, Springer, Vol. 6760, pp. 215-233, November 2011. [DOI](https://doi.org/10.1007/978-3-642-24568-8_11)
-
 1. **A 45nm Heterogeneous Multi-core SoC Supporting an over 32-bits Physical Address Space for Digital Appliance**. Takumi Nito, Yoichi Yuyama, Masayuki Ito, Yoshikazu Kiyoshige, Yusuke Nitta, Osamu Nishii, Atsushi Hasegawa, Makoto Ishikawa, Tetsuya Yamada, Junichi Miyakoshi, Koichi Terada, Tohru Nojiri, Masashi Takada, Makoto Satoh, Hiroyuki Mizuno, Kunio Uchiyama, Yasutaka Wada, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara, Hideo Maejima,13th IEEE Symposium on Low-power and High-Speed Chips (COOL Chips XIII), April 2010.
-
-1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008 (in Japanese)
 
 1. **Software-Cooperative Power-Efficient Heterogeneous Multi-Core for Media Processing**. Hiroaki Shikano, Masaki Ito, Kunio Uchiyama, Toshihiko Odaka,Akihiro Hayashi, Takeshi Masuura, Masayoshi Mase, Jun Shirako, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 13th Asia and South Pacific Design Automation Conference (ASP-DAC2008), January 2008. [DOI](https://doi.org/10.1109/ASPDAC.2008.4484049)
 

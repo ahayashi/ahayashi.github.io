@@ -15,13 +15,13 @@ Publications
 
 1. **Performance Evaluation of OpenMP’s Target Construct on GPUs**. Akihiro Hayashi, Jun Shirako, Ettore Tiotto, Robert Ho, Vivek Sarkar. International Journal of High Performance Computing and Networking (IJHPCN), Vol. 13, No. 1, 2019. [DOI](https://doi.org/10.1504/IJHPCN.2019.097051)
 
-1. **Automatic Parallelization of Designed Engine Control C Codes by MATLAB/Simulink**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori, Keiji Kimura, Kasahara Hironori, IPSJ Journal, August, 2014. (in Japanese)
+1. **Automatic Parallelization of Designed Engine Control C Codes by MATLAB/Simulink**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori, Keiji Kimura, Kasahara Hironori, IPSJ Journal, August, 2014. [LINK](https://cir.nii.ac.jp/crid/1050845762834688256) (in Japanese) 
 
-1. **Parallelizing Compiler Framework and API for Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, IPSJ Transactions on Advanced Computing Systems (ACS), Vol.5, No.1, pp.68-79, November. 2011. (in Japanese)
+1. **Parallelizing Compiler Framework and API for Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, IPSJ Transactions on Advanced Computing Systems (ACS), Vol.5, No.1, pp.68-79, November. 2011. [LINK](https://cir.nii.ac.jp/crid/1050564287855174016) (in Japanese)
 
 1. **A Parallelizing Compiler Cooperative Heterogeneous Multicore Processor Architecture**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, and Hironori Kasahara, Transactions on High-Performance Embedded Architectures and Compilers IV (HiPEAC IV), Lecture Note in Computer Science, Springer, Vol. 6760, pp. 215-233, November 2011. [DOI](https://doi.org/10.1007/978-3-642-24568-8_11)
 
-1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008 (in Japanese)
+1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008. [LINK](https://cir.nii.ac.jp/crid/1050001337893111168) (in Japanese)
 
 #### Conference Publications
 1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC High Performance). May 2024. [[DOI](https://doi.org/10.23919/ISC.2024.10528922)]

@@ -2,6 +2,7 @@ Professional Committees
 =======================
 
 ### Conference Committees
+- Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025).
 - Program Committee Member, 33rd Annual International Conference on Computer Science and Software Engineering (CASCON), September 2023.
 - Program Committee Member, 29th International European Conference on Paralleland Distributed Computing (Euro-Par), August 2023.
 - Program Committee Member, 10th Annual Chapel Implementers and Users Workshop (CHIUW), June 2023.

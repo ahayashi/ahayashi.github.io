@@ -15,6 +15,6 @@ Dr. Hayashi is a senior research scientist at Georgia Institute of Technology. H
 ### Recent Highlights
 - A full paper co-authored by Dr. Hayashi has been accepted at SC'24 ([link](https://sc24.conference-program.com/presentation/?id=pap476&sess=sess371)).
 - A full paper co-authored by Dr. Hayashi has been accepted at ISC'24 ([link](https://ieeexplore.ieee.org/abstract/document/10528922)).
-- Dr. Hayashi received 2024 the Outstanding Research Scientist Award from [the College of Computing](https://www.cc.gatech.edu/) at Georgia Tech ([link](https://www.cc.gatech.edu/annual-awards-and-honors-past-recipients)).
+- Dr. Hayashi received the 2024 Outstanding Research Scientist Award from [the College of Computing](https://www.cc.gatech.edu/) at Georgia Tech ([link](https://www.cc.gatech.edu/annual-awards-and-honors-past-recipients)).
 - Papers co-authored by Dr. Hayashi received the Best SCALE Challenge Award at IEEE/ACM CCGRID for two consecutive years ([2023](https://ccgrid2023.iisc.ac.in/awards/) and [2024](https://2024.ccgrid-conference.org/awards/)).
 - The IARPA AGILE project, where Dr. Hayashi leads the software aspect, was started in September 2022. [link](https://www.iarpa.gov/research-programs/agile)

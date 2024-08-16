@@ -40,19 +40,19 @@ Conducted research on automatic parallelization and power reduction techniques f
 - Fundamentals of FPGA Programming, Waseda University, Spring 2018 
 
 ### Awards
-- Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2024), May, 2024. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar)
-- Outstanding Research Scientist Award, College of Computing, Georgia Institute of Technology, 2024
-- Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2023), May, 2023. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar)
+- Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2024), May, 2024. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar) [LINK](https://2024.ccgrid-conference.org/awards/)
+- Outstanding Research Scientist Award, College of Computing, Georgia Institute of Technology, 2024 [LINK](https://www.cc.gatech.edu/annual-awards-and-honors-past-recipients)
+- Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2023), May, 2023. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar) [LINK](https://ccgrid2023.iisc.ac.in/awards/)
 - IEEE Senior Member, 2021
 - Outstanding Paper award, The 2020 International Conference on High Performance Computing & Simulation (HPCS2020), Mar 2021.
-(Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar)
+(Tiago Carneiro, Nouredine Melab, Akihiro Hayashi, Vivek Sarkar) [LINK](https://chapel-lang.org/papers.html)
 - Best Expo Exhibit, 28th Annual International Conference on Computer Science and Software Engineering (CASCON2018), November 2018 (1 best exhibit out of 72 exhibits). 
-(Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Shalev Housfater, Jimmy Kwa, Vivek Sarkar)
+(Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Shalev Housfater, Jimmy Kwa, Vivek Sarkar) [LINK (A PDF File will open)](https://ibm.ent.box.com/s/pc7636kqw8jhxd45r1yhtgno2osirpto)
 - Best Expo Exhibit, 27th Annual International Conference on Computer Science and Software Engineering (CASCON2017), November 2017 (2 best exhibit out of 54 exhibits).  
-(Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Shalev Housfater, Jimmy Kwa, Vivek Sarkar)
+(Akihiro Hayashi, Gita Koblents, Max Grossman, Kazuaki Ishizaki, Alon Shalev Housfater, Jimmy Kwa, Vivek Sarkar)  [LINK (A PDF File will open)](https://ibm.ent.box.com/s/9ahz45b9xx52gqe08b9pe9squs7nryf3)
 - Encouragement award, IPSJ Symposium on Embedded Systems, October 2013.  (Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori,Keiji Kimura, Hironori Kasahara)
 - Best feature award, COOL Chips XVI, IEEE Symposium on Low Power and High-Speed Chips, April 2013. 
-(Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara,)
+(Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara,) [LINK](https://www.coolchips.org/archive/coolarchive/cool16/index.html)
 - Encouragement award, IPSJ Symposium on Embedded Systems, October 2012.  (Yohei Kishimoto, Hiroki Mikami, Keiichi Nakano, Akihiro Hayashi, Keiji Kimura, Hironori Kasahara)
 - IPSJ SIG recommended Ph.D thesis, September 2012.
 - Best presentation award, 5th GCOE Symposium, September 2009.

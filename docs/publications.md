@@ -96,7 +96,7 @@ Publications
 
 ### Refereed Posters
 
-1. **Bottleneck Scenarios in use of the Conveyors Message Aggregation Library**. Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS24). May 2024.
+1. **Bottleneck Scenarios in use of the Conveyors Message Aggregation Library**. Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS24). May 2024. [DOI](https://doi.org/10.1109/ISPASS61541.2024.00045)
 
 1. **Accelerating Actor-Based Distributed Triangle Counting**. Aniruddha Mysore, Kaushik Ravichandran, Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar**. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC23). November 2023. [LINK](https://sc23.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost187.html)
 

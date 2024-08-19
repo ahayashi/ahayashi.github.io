@@ -2,7 +2,7 @@ Professional Committees
 =======================
 
 ### Conference Committees
-- Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025).
+- Organizing Committee Member, Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025).
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.
 - Program Committee Member, 33rd Annual International Conference on Computer Science and Software Engineering (CASCON), September 2023.
 - Program Committee Member, 29th International European Conference on Parallel and Distributed Computing (Euro-Par), August 2023.
@@ -30,7 +30,7 @@ Professional Committees
 - Program Committee Member, 3rd International Workshop on Software Engineering for Parallel Systems (SEPS2016, co-located with SPLASH2016).
 - Technical Program Committee Member, 29th IEEE International Parallel & DistributedProcessing Symposium (IPDPS2015).
 - Program Committee Member, IPSJ Symposium on Advanced Computing Systems and Infrastructures (SACSIS2013).
-- Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012).
+- Organizing Committee Member, Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012).
 
 ### Journal Reviewers
 - PLOS ONE (2024, 2023)

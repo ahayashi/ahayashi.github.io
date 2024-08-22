@@ -24,7 +24,13 @@ Publications
 1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008. [LINK](https://cir.nii.ac.jp/crid/1050001337893111168) (in Japanese)
 
 #### Conference/Workshop Publications
-1. **Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization**. Shubhendra Pal Singhal, Souvadra Hati, Akihiro Hayashi, Jeffrey Young, Richard Vuduc, Vivek Sarkar. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24). Nov 2024. (to appear)
+1. **Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization**. Shubhendra Pal Singhal, Souvadra Hati, Jeffrey Young, Vivek Sarkar, Akihiro Hayashi, Richard Vuduc. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24). Nov 2024. (to appear)
+
+1. **Enabling User-level Asynchronous Tasking in the FA-BSP Model - Case Study: Distributed Triangle Counting**. Akihiro Hayashi, Shubhendra Pal Singhal, Youssef Elmougy, Jiawei Yang. The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
+
+1. **Intrepydd: Toward Performance, Productivity, and Portability for Massive Heterogeneous Parallelism**. Jun Shirako, Tong Zhou, Akihiro Hayashi. The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
+
+1. **On the Cloud We Can’t Wait: Asynchronous Actors Perform Even Better on the Cloud**. Aniruddha Mysore, Youssef Elmougy, Akihiro Hayashi. The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
 
 1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC High Performance). May 2024. [DOI](https://doi.org/10.23919/ISC.2024.10528922)
 

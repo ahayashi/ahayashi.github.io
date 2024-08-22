@@ -136,6 +136,8 @@ Publications
 
 ### Invited Talks
 
+1. **A Fine-grained Asynchronous Bulk Synchronous Parallelism Model for Large-scale Applications** Advanced Computer Science and Engineering Seminar, Waseda University, 2024.
+
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
 ### Refereed Presentations/Papers without Preceedings

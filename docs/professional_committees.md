@@ -2,7 +2,7 @@ Professional Committees
 =======================
 
 ### Conference Committees
-- Organizing Committee Member, Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
+- Organizing Committee Member, Registration Chair, Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.
 - Program Committee Member, The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
 - Program Committee Member, 33rd Annual International Conference on Computer Science and Software Engineering (CASCON), September 2023.

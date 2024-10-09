@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: docker://pandoc/latex:latest
         with:
-          args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -o docs/cv/Akihiro-CV-Auto.pdf
+          args: --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/grants.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -o docs/cv/Akihiro-CV-Auto.pdf
       - run: |
           git pull
           git add docs/cv/Akihiro-CV-Auto.pdf

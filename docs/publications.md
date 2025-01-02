@@ -24,7 +24,9 @@ Publications
 1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008. [LINK](https://cir.nii.ac.jp/crid/1050001337893111168) (in Japanese)
 
 #### Conference/Workshop Publications
-1. **Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization**. Shubhendra Pal Singhal, Souvadra Hati, Jeffrey Young, Vivek Sarkar, Akihiro Hayashi, Richard Vuduc. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24). November 2024. (to appear)
+1. **Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**. Souvadra Hati, Akihiro Hayashi, Richard Vuduc. 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS25). June 2025. (to appear)
+
+1. **Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization**. Shubhendra Pal Singhal, Souvadra Hati, Jeffrey Young, Vivek Sarkar, Akihiro Hayashi, Richard Vuduc. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24). November 2024. [[doi](https://doi.org/10.1109/SC41406.2024.00108)]
 
 1. **ActorProf: A Framework for Profiling and Visualizing Fine-grained Asynchronous Bulk Synchronous Parallel Execution**. Jiawei Yang, Shubhendra Pal Singhal, Jun Shirako, Akihiro Hayashi, Vivek Sarkar. Workshop on Programming and Performance Visualization Tools (ProTools2024, co-located with SC24). (to appear)
 

@@ -38,7 +38,7 @@ Publications
 
 1. **Asynchronous Distributed Actor-based Approach to Jaccard Similarity for Genome Comparisons**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. International Conference on High Performance Computing (ISC High Performance). May 2024. [DOI](https://doi.org/10.23919/ISC.2024.10528922)
 
-1. **A Distributed, Asynchronous Algorithm for Large-Scale Internet Network Topology Analysis.** Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2024, co-located with CCGRID24), May 2024. Recipient of Best SCALE Challenge Award. (to appear)
+1. **A Distributed, Asynchronous Algorithm for Large-Scale Internet Network Topology Analysis.** Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2024, co-located with CCGRID24), May 2024. Recipient of Best SCALE Challenge Award. [DOI](https://doi.org/10.1109/CCGrid59990.2024.00080)
 
 1. **Towards Safe HPC: Productivity and Performance via Rust interfaces for a Distributed C++ Actors library**. John T. Parrish, Nicole Wren, Tsz Hang Kiang, Akihiro Hayashi, Jeffrey Young, Vivek Sarkar. 20th International Conference on Managed Programming Languages & Runtimes (MPLR, co-located with SPLASH24). October 2023. [DOI](https://doi.org/10.1145/3617651.3622992)
 

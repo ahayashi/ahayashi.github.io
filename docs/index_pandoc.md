@@ -18,7 +18,6 @@ Summary
 
 Dr. Hayashi is a senior research scientist at Georgia Institute of Technology. He has over fifteen years of experience in conducting and leading research in the programming languages and parallel computing areas. His research interests include:
 
-- Computer Architecture 
 - Parallel and Distributed Programming Models
 - Automatic Parallelizing Compilers
 - Just-In-Time Compilers

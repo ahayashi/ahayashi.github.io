@@ -26,6 +26,12 @@ Publications
 #### Conference/Workshop Publications
 1. **Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**. Souvadra Hati, Akihiro Hayashi, Richard Vuduc. 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS25). June 2025. (to appear)
 
+1. **Enhancing Productivity and Performance of HClib-Actor with Efficient Task Termination**. Youssef Elmougy, Nirjhar Deb, Akihiro Hayashi, Vivek Sarkar. 27th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS25) (to appear).
+
+1. **Divide, Conquer, and Match: A Distributed and Asynchronous Approach for Subgraph Isomorphism**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. Workshop on Graphs, Architectures, Programming, and Learning (GrAPL, co-located with IPDPS25).
+
+1. **ActorISx: Exploiting Asynchrony for Scalable High-Performance Integer Sort**. Youssef Elmougy, Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2025, co-located with CCGRID25)
+
 1. **Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization**. Shubhendra Pal Singhal, Souvadra Hati, Jeffrey Young, Vivek Sarkar, Akihiro Hayashi, Richard Vuduc. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24). November 2024. [DOI](https://doi.org/10.1109/SC41406.2024.00108)
 
 1. **ActorProf: A Framework for Profiling and Visualizing Fine-grained Asynchronous Bulk Synchronous Parallel Execution**. Jiawei Yang, Shubhendra Pal Singhal, Jun Shirako, Akihiro Hayashi, Vivek Sarkar. Workshop on Programming and Performance Visualization Tools (ProTools2024, co-located with SC24). [DOI](https://doi.org/10.1109/SCW63240.2024.00199)

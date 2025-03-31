@@ -1,19 +1,20 @@
 ---
 title: Curriculum Vitae
-author: Akihiro Hayashi
-header-includes: |
-    \usepackage[explicit]{titlesec}
-    \newcommand{\raisedrulefill}[2][0ex]{\leaders\hbox{\rule[#1]{1pt}{#2}}\hfill}
-    \titleformat{\section}{\Large\bfseries}{{\thesection}. }{0em}{#1\vspace{-1.6ex} \\ \makebox[\linewidth][l]{\raisedrulefill[0.4ex]{1pt}}}
-    \usepackage[margin=0.75in]{geometry}
-    \usepackage{fancyhdr}
-    \pagestyle{fancy}
-    \fancyhf{}
-    \rhead{Page \thepage}
-    \chead{\textit{Curriculum Vitae}}
-    \lhead{\textbf{Akihiro Hayashi, Ph.D.}}
-    \rfoot{As of \today}
-    \renewcommand{\headrulewidth}{2pt}
+author: 'Akihiro Hayashi \href{https://x.com/ahayashi_gt}{\faTwitter}'
+header-includes:
+    - \usepackage{fontawesome5}
+    - \usepackage[explicit]{titlesec}
+    - \newcommand{\raisedrulefill}[2][0ex]{\leaders\hbox{\rule[#1]{1pt}{#2}}\hfill}
+    - \titleformat{\section}{\Large\bfseries}{{\thesection}. }{0em}{#1\vspace{-1.6ex} \\ \makebox[\linewidth][l]{\raisedrulefill[0.4ex]{1pt}}}
+    - \usepackage[margin=0.75in]{geometry}
+    - \usepackage{fancyhdr}
+    - \pagestyle{fancy}
+    - \fancyhf{}
+    - \rhead{Page \thepage}
+    - \chead{\textit{Curriculum Vitae}}
+    - \lhead{\textbf{Akihiro Hayashi, Ph.D.}}
+    - \rfoot{As of \today}
+    - \renewcommand{\headrulewidth}{2pt}
 ---
 
 Summary

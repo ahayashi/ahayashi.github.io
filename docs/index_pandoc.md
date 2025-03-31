@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-author: 'Akihiro Hayashi \href{https://x.com/ahayashi_gt}{\faTwitter}'
+author: 'Akihiro Hayashi \href{mailto:ahayashi@gatech.edu}{\faEnvelope}\href{https://www.linkedin.com/in/akihiro-hayashi-91710237/}{\faLinkedIn}\href{https://x.com/ahayashi_gt}{\faTwitter}'
 header-includes:
     - \usepackage{fontawesome5}
     - \usepackage[explicit]{titlesec}

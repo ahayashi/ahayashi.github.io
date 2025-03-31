@@ -2,6 +2,9 @@
 title: Curriculum Vitae
 author: Akihiro Hayashi
 header-includes: |
+    \usepackage[explicit]{titlesec}
+    \newcommand{\raisedrulefill}[2][0ex]{\leaders\hbox{\rule[#1]{1pt}{#2}}\hfill}
+    \titleformat{\section}{\Large\bfseries}{{\thesection}. }{0em}{#1\vspace{-1.6ex} \\ \makebox[\linewidth][l]{\raisedrulefill[0.4ex]{1pt}}}
     \usepackage[margin=0.75in]{geometry}
     \usepackage{fancyhdr}
     \pagestyle{fancy}

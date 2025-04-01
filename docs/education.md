@@ -7,8 +7,6 @@ Thesis: *Studies on Automatic Parallelization for Heterogeneous and Homogeneous 
 
 Advisor: Prof. Hironori Kasahara
 
-:smile:
-
 ## 2007-2008: M.E., Computer Science, Waseda University, Tokyo, Japan
 
 Thesis: *Study on Compiler Cooperative Heterogeneous Multicore Architecture*

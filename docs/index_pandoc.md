@@ -7,6 +7,10 @@ header-includes:
     - \usepackage[explicit]{titlesec}
     - \newcommand{\raisedrulefill}[2][0ex]{\leaders\hbox{\rule[#1]{1pt}{#2}}\hfill}
     - \titleformat{\section}{\Large\bfseries}{{\thesection}. }{0em}{#1\vspace{-1.6ex} \\ \makebox[\linewidth][l]{\raisedrulefill[0.4ex]{1pt}}}
+    - \usepackage{etoolbox}
+    - \AtBeginDocument{
+        \expandafter\def\csname r@sec:noTOC\endcsname{}
+       }
     - \usepackage[margin=0.75in]{geometry}
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
@@ -22,7 +26,7 @@ header-includes:
 Executive Summary
 =======
 
-## A Brief Autobiography {.unnumbered}
+## A Brief Autobiography {#sec:noTOC}
 Dr. Akihiro Hayashi is a Senior Research Scientist at Georgia Tech. He earned his Ph.D. in Computer Science from Waseda University in 2012 under the supervision of [Prof. Hironori Kasahara](https://www.kasahara.cs.waseda.ac.jp/kasahara.html.en) and later joined [Prof. Vivek Sarkar](https://vsarkar.cc.gatech.edu/)’s group at Rice University as a Postdoctoral Researcher. He was promoted to Research Scientist in 2015 and moved to Georgia Tech in 2019.
 
 ## Research Contributions {.unnumbered}

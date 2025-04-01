@@ -22,7 +22,7 @@ Executive Summary
 =======
 
 ## A Brief Autobiography
-Dr. Akihiro Hayashi is a Senior Research Scientist at the Georgia Institute of Technology (Georgia Tech). He received his Ph.D. in Computer Science from Waseda University in 2012. Dr. Hayashi joined Prof. Vivek Sarkar’s research group as a Postdoctoral Researcher at Rice University in 2013 and was promoted to Research Scientist in 2015. He joined Georgia Tech e as a Senior Research Scientist in 2019.
+Dr. Akihiro Hayashi is a Senior Research Scientist at the Georgia Institute of Technology (Georgia Tech). He received his Ph.D. in Computer Science from Waseda University in 2012. Dr. Hayashi joined Prof. Vivek Sarkar’s research group as a Postdoctoral Researcher at Rice University in 2013 and was promoted to Research Scientist in 2015. He joined Georgia Tech as a Senior Research Scientist in 2019.
 
 ## Research Contributions
 Dr. Hayashi has focused his work on a broad area of parallel computing. His original and innovative research contributions are clearly demonstrated in his extensive publication record, software artifacts, and numerous awards. Dr. Hayashi’s work has resulted in 8 referred journal publications and over 60 refereed conference publications. These include publications in top journals, such as Quantum, and top conferences, such as CC, EuroPar, ISC, IPDPS, PACT, and SC, whose acceptance ratio is typically ~20%. To date, according to [Google Scholar](https://scholar.google.com/citations?user=gfsge0AAAAAJ&hl=en), Dr. Hayashi has received 840+ citations, with an h-index of 13 and an i10-index of 19. 

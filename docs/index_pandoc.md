@@ -1,9 +1,11 @@
 ---
-title: Curriculum Vitae
-author: 'Akihiro Hayashi, Ph.D. \href{mailto:ahayashi@gatech.edu}{\faEnvelope} \href{https://scholar.google.com/citations?user=gfsge0AAAAAJ\&hl=en}{\aiGoogleScholar} \href{https://www.linkedin.com/in/akihiro-hayashi-91710237/}{\faLinkedin} \href{https://x.com/ahayashi_gt}{\faTwitter}'
+title: 'Akihiro Hayashi, Ph.D.'
+author: '\href{mailto:ahayashi@gatech.edu}{\faEnvelope} \href{https://scholar.google.com/citations?user=gfsge0AAAAAJ\&hl=en}{\aiGoogleScholar} \href{https://www.linkedin.com/in/akihiro-hayashi-91710237/}{\faLinkedin} \href{https://x.com/ahayashi_gt}{\faTwitter}'
 header-includes:
     - \usepackage{fontawesome5}
     - \usepackage{academicons}
+    - \usepackage{fontspec}
+    - \setmainfont{Arial}
     - \usepackage[explicit]{titlesec}
     - \newcommand{\raisedrulefill}[2][0ex]{\leaders\hbox{\rule[#1]{1pt}{#2}}\hfill}
     - \titleformat{\section}{\Large\bfseries}{{\thesection}. }{0em}{#1\vspace{-1.6ex} \\ \makebox[\linewidth][l]{\raisedrulefill[0.4ex]{1pt}}}

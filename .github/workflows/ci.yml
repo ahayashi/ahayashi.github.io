@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: docker run --rm --entrypoint sh -v ${{ github.workspace }}:/data pandoc/extra:latest -c "tlmgr install academicons && apk add --no-cache ghostscript && fc-cache -fv && fc-list :family && ls /usr/share/fonts/ && ls /usr/share/fonts/Type1 && cd /data && pandoc --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -V mainfont=\"Nimbus Sans L\" -o docs/cv/Akihiro-CV-Auto.pdf"
+      - run: docker run --rm --entrypoint sh -v ${{ github.workspace }}:/data pandoc/extra:latest -c "tlmgr install academicons && apk add --no-cache ttf-liberation && fc-cache -fv && fc-list | grep \"Liberation Sans\" && cd /data && pandoc --toc docs/index_pandoc.md docs/education.md docs/professional_experience.md docs/professional_committees.md docs/publications.md --pdf-engine=xelatex -V mainfont=\"Liberation Sans\" -o docs/cv/Akihiro-CV-Auto.pdf"
       - run: |
           git pull
           git add docs/cv/Akihiro-CV-Auto.pdf

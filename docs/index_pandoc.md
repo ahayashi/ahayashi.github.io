@@ -19,7 +19,7 @@ header-includes:
 ---
 \newpage
 
-Executive Summary
+1-Page Summary
 =======
 
 ## A Brief Autobiography

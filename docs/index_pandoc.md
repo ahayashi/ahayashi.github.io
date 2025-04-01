@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-author: 'Akihiro Hayashi, Ph.D. \href{mailto:ahayashi@gatech.edu}{\faEnvelope} \href{https://scholar.google.com/citations?user=gfsge0AAAAAJ&hl=en}{\aiGoogleScholar} \href{https://www.linkedin.com/in/akihiro-hayashi-91710237/}{\faLinkedin} \href{https://x.com/ahayashi_gt}{\faTwitter}'
+author: 'Akihiro Hayashi, Ph.D. \href{mailto:ahayashi@gatech.edu}{\faEnvelope} \href{}{\aiGoogleScholar} \href{https://www.linkedin.com/in/akihiro-hayashi-91710237/}{\faLinkedin} \href{https://x.com/ahayashi_gt}{\faTwitter}'
 header-includes:
     - \usepackage{fontawesome5}
     - \usepackage[explicit]{titlesec}

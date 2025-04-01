@@ -1,12 +1,12 @@
 Publications
 ============
 
-### Ph.D Dissertation
+## Ph.D Dissertation
 - **Studies on Automatic Parallelization for Heterogeneous and Homogeneous Multicore Processors**. Akihiro Hayashi. Waseda University. February 2012.
 
-### Refereed Papers
+## Refereed Papers
 
-#### Journal Publications
+### Journal Publications
 1. **A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications**. Sri Raj Paul, Akihiro Hayashi, Kun Chen, Youssef Elmougy, Vivek Sarkar. Journal of Computational Science, April 2023. [DOI](https://doi.org/10.1016/j.jocs.2023.102014)
 
 1. **Qulacs: a fast and versatile quantum circuit simulator for research purpose**. Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro Nakadai, Jiabao Chen, Ken M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya O. Nakagawa, Yohei Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi, Keisuke Fujii. Quantum Journal (Quantum 5, 559). [DOI](https://doi.org/10.22331/q-2021-10-06-559)
@@ -15,7 +15,7 @@ Publications
 
 1. **Performance Evaluation of OpenMP’s Target Construct on GPUs**. Akihiro Hayashi, Jun Shirako, Ettore Tiotto, Robert Ho, Vivek Sarkar. International Journal of High Performance Computing and Networking (IJHPCN), Vol. 13, No. 1, 2019. [DOI](https://doi.org/10.1504/IJHPCN.2019.097051)
 
-1. **Automatic Parallelization of Designed Engine Control C Codes by MATLAB/Simulink**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori, Keiji Kimura, Kasahara Hironori, IPSJ Journal, August, 2014. [LINK](https://cir.nii.ac.jp/crid/1050845762834688256) (in Japanese) 
+1. **Automatic Parallelization of Designed Engine Control C Codes by MATLAB/Simulink**. Dan Umeda, Yohei Kanehagi, Hiroki Mikami, Akihiro Hayashi, Mitsuhiro Tani, Hiroshi Mori, Keiji Kimura, Kasahara Hironori, IPSJ Journal, August, 2014. [LINK](https://cir.nii.ac.jp/crid/1050845762834688256) (in Japanese)
 
 1. **Parallelizing Compiler Framework and API for Heterogeneous Multicores**. Akihiro Hayashi, Yasutaka Wada, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, Jun Shirako, Keiji Kimura and Hironori Kasahara, IPSJ Transactions on Advanced Computing Systems (ACS), Vol.5, No.1, pp.68-79, November. 2011. [LINK](https://cir.nii.ac.jp/crid/1050564287855174016) (in Japanese)
 
@@ -23,7 +23,7 @@ Publications
 
 1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008. [LINK](https://cir.nii.ac.jp/crid/1050001337893111168) (in Japanese)
 
-#### Conference/Workshop Publications
+### Conference/Workshop Publications
 1. **Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**. Souvadra Hati, Akihiro Hayashi, Richard Vuduc. 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS25). June 2025. (to appear)
 
 1. **Enhancing Productivity and Performance of HClib-Actor with Efficient Task Termination**. Youssef Elmougy, Nirjhar Deb, Akihiro Hayashi, Vivek Sarkar. 27th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS25) (to appear).
@@ -110,7 +110,7 @@ Publications
 
 1. **Software-Cooperative Power-Efficient Heterogeneous Multi-Core for Media Processing**. Hiroaki Shikano, Masaki Ito, Kunio Uchiyama, Toshihiko Odaka,Akihiro Hayashi, Takeshi Masuura, Masayoshi Mase, Jun Shirako, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 13th Asia and South Pacific Design Automation Conference (ASP-DAC2008), January 2008. [DOI](https://doi.org/10.1109/ASPDAC.2008.4484049)
 
-### Refereed Posters
+## Refereed Posters
 
 1. **Bottleneck Scenarios in use of the Conveyors Message Aggregation Library**. Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS24). May 2024. [DOI](https://doi.org/10.1109/ISPASS61541.2024.00045)
 
@@ -136,7 +136,7 @@ Publications
 
 1. **OSCAR Parallelizing Compiler Cooperative Heterogeneous Multi-core Architecture**. Akihiro Hayashi, Yasutaka Wada, Hiroaki Shikano, Teruo Kamiayama, Takeshi Watanabe, Takeshi Sekiguchi, Masayoshi Mase, 18th International Conference on Parallel Architectures and Compilation Techniques (PACT2009), September 2009.
 
-### Patents (include applications)
+## Patents (include applications)
 
 1. **Parallelism extraction method and method for making program**. Hironori Kasahara, Keiji Kimura, Akihiro Hayashi, Hiroki Mikami, Yohei Kanehagi, Dan Umeda, Mitsuo Sawada. [LINK](https://patents.google.com/patent/US20150363230A1/en)
 
@@ -144,13 +144,13 @@ Publications
 
 1. **Runtime gpu/cpu selection**. Gita Koblents, Alon Shalev Housfater, Kazuaki Ishizaki, Akihiro Hayashi. [LINK](https://patents.google.com/patent/US20190196853A1/en)
 
-### Invited Talks
+## Invited Talks
 
 1. **A Fine-grained Asynchronous Bulk Synchronous Parallelism Model for Large-scale Applications** Advanced Computer Science and Engineering Seminar, Waseda University, 2024.
 
 1. **How to design human actions by digital technology?** The National Convention of IPSJ, March 2013. (in Japanese)
 
-### Refereed Presentations/Papers without Preceedings
+## Refereed Presentations/Papers without Preceedings
 
 1. **Fine-grained-Asynchronous Bulk-Synchronous Processing for Graph Analytics**. Vivek Sarkar and Akihiro Hayashi. 2024 SIAM Conference on Parallel Processing for Scientific Computing (SIAM-PP24), March 2024.
 
@@ -184,7 +184,7 @@ Publications
 
 1. **Performance of OSCAR Multigrain Parallelizing Compiler on Multicore Processors**. Hiroki Mikami, Jun Shirako, Masayoshi Mase, Takamichi Miyamoto, Hirofumi Nakano, Fumiyo Takano, Akihiro Hayashi, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 14th Workshop on Compilers for Parallel Computing(CPC2009), January 2009.
 
-### Technical Reports
+## Technical Reports
 
 1. **Resilient Asynchronous Many Task Programming Model**. Keita Teranishi, Hemanth Kolla, Nicole Lemaster Slattengren, Matthew Whitlock, Jackson Mayo, Robert L. Clay, Sri Raj Paul, Akihiro Hayashi, Vivek Sarkar, August, 2018. [DOI](https://doi.org/10.2172/1469062)
 

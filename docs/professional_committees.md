@@ -1,8 +1,10 @@
 Professional Committees
 =======================
+## Conference Chairs
+- Registration Chair, Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
+- Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
 ## Conference Committees
-- Organizing Committee Member, Registration Chair, Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.
 - Program Committee Member, The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
 - Program Committee Member, 33rd Annual International Conference on Computer Science and Software Engineering (CASCON), September 2023.
@@ -31,7 +33,6 @@ Professional Committees
 - Program Committee Member, 3rd International Workshop on Software Engineering for Parallel Systems (SEPS2016, co-located with SPLASH2016).
 - Technical Program Committee Member, 29th IEEE International Parallel & DistributedProcessing Symposium (IPDPS2015).
 - Program Committee Member, IPSJ Symposium on Advanced Computing Systems and Infrastructures (SACSIS2013).
-- Organizing Committee Member, Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012).
 
 ## Journal Reviewers
 - ACM Transactions on Mathematical Software (TOMS) (2025)
@@ -49,12 +50,10 @@ Professional Committees
 - IEICE (The Institute of Electronics, Information and Communication Engineers) Transactions on Information and Systems (2020, 2013, 2012)
 
 ## Journal Editors
-
 - Associate Editor, IEICE Transactions on Information and Systems (2023-)
 - Guest Associate Editor, IEICE (The Institute of Electronics, Information and Communication Engineers) Special Section on Low-Power and High-Speed Chips (2022-)
 
 ## External Reviewers
-
 - The IEEE Cluster Conference(IEEE Cluster 2017)
 - International Conference on Network and Parallel Computing (NPC2017, NPC2016)
 - International Conference on Parallel Processing (ICPP2016)
@@ -66,5 +65,4 @@ Professional Committees
 - International Workshop on Languages and Compilers for Parallel Computing (LCPC2018, LCPC2015, LCPC2014, LCPC2013)
 
 ## Specification Committees
-
 - OpenSHMEM Application Programming Interface (2022-)

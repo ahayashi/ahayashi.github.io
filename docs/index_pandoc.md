@@ -36,7 +36,7 @@ Dr. Hayashi has contributed to externally funded projects as a Co-PI, Lead, or S
 
 #### Technical Engagement
 Dr. Hayashi is active in the research community, serving on program committees for top conferences and reviewing for leading journals. To date, he has reviewed over 20 journal and 120 conference/workshop papers. Additionally, since 2023, he has been an associate and guest editor for [the IEICE Transactions on Information and Systems](https://search.ieice.org/bin/index.php?category=D&lang=E
-), and has been a member of [the OpenSHMEM API specification]() committee since 2021. 
+), and has been a member of [the OpenSHMEM API specification](http://openshmem.org/site/) committee since 2021. 
 
 #### Research Interests
 Dr. Hayashi's research interests include:

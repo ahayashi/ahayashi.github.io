@@ -16,8 +16,9 @@ header-includes:
     - \rfoot{As of \today}
     - \renewcommand{\headrulewidth}{2pt}
 ---
+\newpage
 
-Summary
+Executive Summary
 =======
 
 Dr. Hayashi is a senior research scientist at Georgia Institute of Technology. He has over fifteen years of experience in conducting and leading research in the programming languages and parallel computing areas. His research interests include:

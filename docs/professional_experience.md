@@ -3,28 +3,28 @@ Professional Experience
 
 ## Professional
 
-### **Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA - 2019-present**
+### 2019-present: Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
 Responsible for conducting and leading research on 1) enabling resiliency in asynchronous many-task (AMT) programming models, 2) an actor-based programming model for large-scale systems, 3) multi-level programming models for Graphics Processing Units (GPUs) and SIMD (Single-Instruction Multiple Data) units, 4) code generation and optimizations for Graphics Processing Units (GPUs), 5) automatic construction of compiler/runtime heuristics using machine-learning techniques, and 6) programming models for quantum classical systems.
 
-### **Research Scientist, Rice University, Houston, TX, USA - 2015-2019**
+### 2015-2019: Research Scientist, Rice University, Houston, TX, USA
 
 Responsible for conducting and leading research on 1) LLVM-based optimizations for large-scale systems, 2) code generation and optimizations for Graphics Processing Units (GPUs), 3) automatic construction of compiler/runtime heuristics using machine-learning techniques, and 4) enabling resiliency in asynchronous many-task (AMT) programming models.
 
-### **Postdoctoral Researcher, Rice University, Houston, TX, USA - 2013-2015**
+### 2013-2015: Postdoctoral Researcher, Rice University, Houston, TX, USA
 
 Conducted research in the area of compiler and runtime support for parallel languages such as Habanero-Java. In particular, I worked on high-level language constructs and parallel code generation for GPUs while maintaining precise exception semantics on GPUs.
 
-### **Assistant Professor, Waseda University, Tokyo, Japan - 2012-2013**
+### 2012-2013: Assistant Professor, Waseda University, Tokyo, Japan
 
 Conducted research on automatic parallelizing compiler and compiler-directed power reduction techniques in collaboration with many companies in Japan. More specifically , I worked on parallelizing and optimizing 1) automotive engine control software with TOYOTA and Denso, 2) dose calculation software for heavy-ion therapy with Mitsubishi Electric, 3) smartphone applications on Android platforms with Fujitsu Ltd., and 4) multimedia applications with Olympus Corporation.
 
 Instructor for freshman-level 1) computer literacy class and 2) programming class with C language in Spring/Fall 2012.
 
-### **Research Associate, Waseda University, Tokyo, Japan - 2010-2012**
+### 2010-2012: Research Associate, Waseda University, Tokyo, Japan
 
 Conducted research on automatic parallelization and power reduction techniques for embedded heterogeneous multi-core processors. In addition, I worked on the automatic parallelization and optimization of a clinically-used dose calculation program for heavy-ion therapy in collaboration with Mitsubishi Electric. Based on experimental results on an IBM POWER7 platform, our optimized version was over 50x faster than the conventional version.
 
-### **Research Associate, Global COE Program, Waseda University, Tokyo, Japan -  2007-2010**
+### 2007-2010: Research Associate, Global COE Program, Waseda University, Tokyo, Japan -  
 
 Conducted research on automatic parallelization and power reduction techniques for embedded heterogeneous multi-core processors in collaboration with Hitachi Ltd. and Renesas Electronics Corporation (formerly known as Renesas Technology). This work was partially saupported by one of the global centers of excellence (GCOE) program named “International research and education center for Ambient SoC” established by Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT).
 

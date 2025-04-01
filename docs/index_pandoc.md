@@ -21,7 +21,7 @@ header-includes:
 Executive Summary
 =======
 
-## A Short Autobiography
+## A Brief Autobiography
 Dr. Akihiro Hayashi is a Senior Research Scientist at the Georgia Institute of Technology (Georgia Tech). He received his Ph.D. in Computer Science from Waseda University in 2012. Dr. Hayashi joined Prof. Vivek Sarkar’s research group as a Postdoctoral Researcher at Rice University in 2013 and was promoted to Research Scientist in 2015. He joined Georgia Tech e as a Senior Research Scientist in 2019.
 
 ## Research Contributions

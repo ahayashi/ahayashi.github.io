@@ -23,19 +23,20 @@ Executive Summary
 =======
 
 ## A Brief Autobiography
-Dr. Akihiro Hayashi is a Senior Research Scientist at the Georgia Institute of Technology (Georgia Tech). He received his Ph.D. in Computer Science from Waseda University in 2012. Dr. Hayashi joined Prof. Vivek Sarkar’s research group as a Postdoctoral Researcher at Rice University in 2013 and was promoted to Research Scientist in 2015. He joined Georgia Tech as a Senior Research Scientist in 2019.
+Dr. Akihiro Hayashi is a Senior Research Scientist at Georgia Tech. He earned his Ph.D. in Computer Science from Waseda University in 2012 under the supervision of [Prof. Hironori Kasahara](https://www.kasahara.cs.waseda.ac.jp/kasahara.html.en) and later joined [Prof. Vivek Sarkar](https://vsarkar.cc.gatech.edu/)’s group at Rice University as a Postdoctoral Researcher. He was promoted to Research Scientist in 2015 and moved to Georgia Tech in 2019.
 
 ## Research Contributions
-Dr. Hayashi has focused his work on a broad area of parallel computing. His original and innovative research contributions are clearly demonstrated in his extensive publication record, software artifacts, and numerous awards. Dr. Hayashi’s work has resulted in 8 referred journal publications and over 60 refereed conference publications. These include publications in top journals, such as Quantum, and top conferences, such as CC, EuroPar, ISC, IPDPS, PACT, and SC, whose acceptance ratio is typically ~20%. To date, according to [Google Scholar](https://scholar.google.com/citations?user=gfsge0AAAAAJ&hl=en), Dr. Hayashi has received 840+ citations, with an h-index of 13 and an i10-index of 19. 
+Dr. Hayashi's work spans parallel computing, with contributions reflected in his publications, software artifacts, and awards. He has authored 8 journal papers and over 60 conference papers, including in top venues such as Quantum, CC, EuroPar, ISC, IPDPS, PACT, and SC. To date, according to [Google Scholar](https://scholar.google.com/citations?user=gfsge0AAAAAJ&hl=en), his research has received over 840 citations, with an h-index of 13 and an i10-index of 19, per Google Scholar.
 
 ## Awards
-Dr. Hayashi has received numerous awards for his publications and artifacts. Notable accolades include the 2024 Outstanding Research Scientist Award from the College of Computing at Georgia Tech, the Best SCALE Challenge Award at IEEE/ACM CCGRID for two consecutive years (2023 and 2024), the Outstanding Paper Award at IEEE HPCS in 2021, and the Best Expo Exhibit Award at IBM/ACM CASCON for two consecutive years (2017 and 2018).
+Dr. Hayashi has received several recognitions, including [the 2024 Outstanding Research Scientist Award from Georgia Tech’s College of Computing](https://www.cc.gatech.edu/annual-awards-and-honors-past-recipients). His work has been honored with the Best SCALE Challenge Award (CCGRID, 2023 & 2024), the Outstanding Paper Award (IEEE HPCS, 2021), and the Best Expo Exhibit Award (IBM/ACM CASCON, 2017 & 2018).
 
-## Funding, Leadership, Teamwork, and Supervision
-Dr. Hayashi has made significant contributions to externally funded projects, serving as a Co-Principal Investigator, Lead, and Key/Senior Personnel on initiatives funded by sponsors such as BAH, IARPA, IBM, ORNL, SNL, and others. Through exceptional leadership, Dr. Hayashi has excelled in developing and managing the technical aspects of these projects. Dr. Hayashi has significant experience in collaborating with, supervising, and mentoring a diverse group of over 25 faculty and students across various research projects. He has closely guided the degree-related work of 3 Ph.D. students, 4 master's students, and 2 undergraduate students. Additionally, he has supervised 1 research scientist, 2 postdoctoral fellows, 8 more Ph.D. students, and 6 more undergraduate students, primarily within sponsored projects.
+## Funding, Leadership, and Mentorship
+Dr. Hayashi has contributed to externally funded projects as a Co-PI, Lead, or Senior Personnel, collaborating with sponsors such as BAH, IARPA, IBM, ORNL, and SNL. He has worked with numerous academic/research faculty members, researchers, engineers, and students across various projects, mentoring Ph.D., master’s, and undergraduate students, as well as postdoctoral fellows and research scientists.
 
-## Technical Stature
-Dr. Hayashi’s broad recognition of technical stature in the field of parallel computing is evident through his numerous awards and his active participation in the academic community. He has been invited to join program and review committees for top-tier conferences and serve as a reviewer for leading journals. He has reviewed 20+ journal papers and 120+ conference/workshop papers. Additionally, Dr. Hayashi has served as an associate and guest editor for the IEICE Transactions since 2023 and has been a member of the OpenSHMEM Application Programming Interface specification committee since 2021.
+## Technical Engagement
+Dr. Hayashi is active in the research community, serving on program committees for top conferences and reviewing for leading journals. To date, he has reviewed over 20 journal and 120 conference/workshop papers. Additionally, since 2023, he has been an associate and guest editor for [the IEICE Transactions on Information and Systems](https://search.ieice.org/bin/index.php?category=D&lang=E
+), and has been a member of [the OpenSHMEM API specification]() committee since 2021. 
 
 ## Research Interests
 Dr. Hayashi's research interests include:

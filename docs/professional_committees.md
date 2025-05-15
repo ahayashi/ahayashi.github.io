@@ -35,6 +35,7 @@ Professional Committees
 - Program Committee Member, IPSJ Symposium on Advanced Computing Systems and Infrastructures (SACSIS2013).
 
 ## Journal Reviewers
+- IEEE Transactions on Mobile Computing (TMC) (2025)
 - ACM Transactions on Mathematical Software (TOMS) (2025)
 - ACM Transactions on Architecture and Code Optimization (TACO) (2025, 2022, 2021)
 - Concurrency and Computation: Practice and Experience (2024)

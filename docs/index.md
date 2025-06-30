@@ -1,7 +1,7 @@
 ![Akihiro](./img/akihiro.png)
 
 ### Summary
-Dr. Hayashi is a Senior Research Scientist at Georgia Tech with over 15 years of experience in programming models, compilers, and runtime systems. He has been instrumental as key personnel in externally sponsored projects funded by BAH, IARPA, IBM, ORNL, SNL, and others. Additionally, he has served on the OC, PC, and ERC for various conferences, including ASPLOS, IPDPS, ISCA, PPoPP, and others. He has been honored with several awards, including the Best SCALE Challenge Award at CCGRID ’23 and ’24 and the 2024 Outstanding Research Scientist Award from Georgia Tech’s College of Computing. His research interests include:
+Dr. Hayashi is a Principal Research Scientist at Georgia Tech with over 15 years of experience in programming models, compilers, and runtime systems. He has been instrumental as key personnel in externally sponsored projects funded by BAH, IARPA, IBM, ORNL, SNL, and others. Additionally, he has served on the OC, PC, and ERC for various conferences, including ASPLOS, IPDPS, ISCA, PPoPP, and others. He has been honored with several awards, including the Best SCALE Challenge Award at CCGRID ’23 and ’24 and the 2024 Outstanding Research Scientist Award from Georgia Tech’s College of Computing. His research interests include:
 
 - Parallel and Distributed Programming Models
 - Automatic Parallelizing Compilers

@@ -3,7 +3,10 @@ Professional Experience
 
 ## Professional
 
-### 2019-present: Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
+### 2025-present: Principal Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
+Responsible for conducting and leading research on an actor-based programming model and its runtime system for large-scale systems that accelerate various irregular workloads
+
+### 2019-2025: Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
 Responsible for conducting and leading research on 1) enabling resiliency in asynchronous many-task (AMT) programming models, 2) an actor-based programming model for large-scale systems, 3) multi-level programming models for Graphics Processing Units (GPUs) and SIMD (Single-Instruction Multiple Data) units, 4) code generation and optimizations for Graphics Processing Units (GPUs), 5) automatic construction of compiler/runtime heuristics using machine-learning techniques, and 6) programming models for quantum classical systems.
 
 ### 2015-2019: Research Scientist, Rice University, Houston, TX, USA

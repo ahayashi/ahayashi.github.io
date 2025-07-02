@@ -5,7 +5,7 @@ Professional Experience
 
 ### 2025-present: Principal Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
 - Leading externally funded research projects as co-principal investigator, key personnel, and team lead
-- Serving on conference program committees, journal editorial boards, and specification committees in high-performance computing and programming models
+- Serving on conference organizing/program committees, journal editorial boards, and specification committees in high-performance computing and programming models
 
 ### 2019-2025: Senior Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
 
@@ -21,7 +21,7 @@ Led and conducted research on:
 Additional responsibilities:
 
 - Led externally funded research projects such as [IARPA AGILE](https://www.iarpa.gov/research-programs/agile) as co-principal investigator, key personnel, and team lead
-- Served on conference program committees, journal editorial boards, and specification committees in high-performance computing and programming models
+- Served on conference organizing/program committees, journal editorial boards, and specification committees in high-performance computing and programming models
 
 ### 2015-2019: Research Scientist, Rice University, Houston, TX, USA
 

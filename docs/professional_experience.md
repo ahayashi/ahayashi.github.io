@@ -26,6 +26,7 @@ Additional responsibilities:
 ### 2015-2019: Research Scientist, Rice University, Houston, TX, USA
 
 Led and conducted research on:
+
 - LLVM-based optimizations for large-scale systems
 - Code generation and optimizations for GPUs
 - Automatic construction of compiler/runtime heuristics with machine learning
@@ -38,6 +39,7 @@ Conducted research on compiler and runtime support for parallel languages such a
 ### 2012-2013: Assistant Professor, Waseda University, Tokyo, Japan
 
 Conducted research on automatic parallelizing compilers and compiler-directed power reduction techniques in collaboration with:
+
 - TOYOTA and Denso (automotive engine control software)
 - Mitsubishi Electric (dose calculation software for heavy-ion therapy)
 - Fujitsu Ltd. (smartphone applications on Android)

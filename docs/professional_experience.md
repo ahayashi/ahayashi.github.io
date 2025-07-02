@@ -19,6 +19,7 @@ Led and conducted research on:
 - Programming models for quantum-classical systems
 
 Additional responsibilities:
+
 - Led externally funded research projects such as [IARPA AGILE](https://www.iarpa.gov/research-programs/agile) as co-principal investigator, key personnel, and team lead
 - Served on conference program committees, journal editorial boards, and specification committees in high-performance computing and programming models
 

@@ -49,7 +49,7 @@ Taught freshman-level courses in computer literacy and C programming (Spring/Fal
 
 ### 2010-2012: Research Associate, Waseda University, Tokyo, Japan
 
-Conducted research on automatic parallelization and power reduction techniques for embedded heterogeneous multi-core processors. Most notably, optimized a clinically-used dose calculation program in collaboration with Mitsubishi Electric, achieving over 50× speedup on IBM POWER7 platforms.
+Conducted research on automatic parallelization and power reduction techniques for embedded heterogeneous multi-core processors. Most notably, optimized a clinically-used dose calculation program in collaboration with Mitsubishi Electric, achieving over 50x speedup on IBM POWER7 platforms.
 
 ### 2007-2010: Research Associate, Global COE Program, Waseda University, Tokyo, Japan
 

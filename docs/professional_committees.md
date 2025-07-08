@@ -6,7 +6,7 @@ Professional Committees
 
 ## Conference Committees
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.
-- Program Committee Member, The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
+- Reviewer, The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
 - Program Committee Member, 33rd Annual International Conference on Computer Science and Software Engineering (CASCON), September 2023.
 - Program Committee Member, 29th International European Conference on Parallel and Distributed Computing (Euro-Par), August 2023.
 - Program Committee Member, 10th Annual Chapel Implementers and Users Workshop (CHIUW), June 2023.

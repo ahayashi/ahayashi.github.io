@@ -1,7 +1,7 @@
 Professional Committees
 =======================
 ## Conference Chairs
-- Registration Chair, Social Media Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
+- Registration Chair, Social Media Co-Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
 - Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
 ## Conference Committees

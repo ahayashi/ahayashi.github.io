@@ -30,7 +30,7 @@ Publications
 
 1. **Divide, Conquer, and Match: A Distributed and Asynchronous Approach for Subgraph Isomorphism**. Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar. Workshop on Graphs, Architectures, Programming, and Learning (GrAPL, co-located with IPDPS25). [DOI](https://doi.org/10.1109/IPDPSW66978.2025.00120)
 
-1. **ActorISx: Exploiting Asynchrony for Scalable High-Performance Integer Sort**. Youssef Elmougy, Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2025, co-located with CCGRID25). [DOI](https://doi.org/10.1109/CCGridW65158.2025.00047)
+1. **ActorISx: Exploiting Asynchrony for Scalable High-Performance Integer Sort**. Youssef Elmougy, Shubhendra Pal Singhal, Akihiro Hayashi, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2025, co-located with CCGRID25). [DOI](https://ieeexplore.ieee.org/document/11044500)
 
 1. **Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization**. Shubhendra Pal Singhal, Souvadra Hati, Jeffrey Young, Vivek Sarkar, Akihiro Hayashi, Richard Vuduc. International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24). November 2024. [DOI](https://doi.org/10.1109/SC41406.2024.00108)
 

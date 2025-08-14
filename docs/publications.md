@@ -24,7 +24,7 @@ Publications
 1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008. [LINK](https://cir.nii.ac.jp/crid/1050001337893111168) (in Japanese)
 
 ### Conference/Workshop Publications
-1. **Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**. Souvadra Hati, Akihiro Hayashi, Richard Vuduc. 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS25). June 2025. [[DOI](https://doi.org/10.48550/arXiv.2505.04431)]
+1. **Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**. Souvadra Hati, Akihiro Hayashi, Richard Vuduc. 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS25). June 2025. [DOI](https://doi.org/10.1109/IPDPS64566.2025.00049)
 
 1. **Enhancing Productivity and Performance of HClib-Actor with Efficient Task Termination**. Youssef Elmougy, Nirjhar Deb, Akihiro Hayashi, Vivek Sarkar. 27th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS25) (to appear).
 

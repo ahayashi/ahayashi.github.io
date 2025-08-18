@@ -5,6 +5,8 @@ Professional Committees
 - Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
 ## Conference Committees
+- Program Committee Member, 31st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), January 2026.
+- Program Committee Member, 35th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2025.
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.
 - Reviewer, The Vivek Sarkar Festschrift Symposium (VIVEKFEST2024, co-located with SPLASH24). October 2024.
 - Program Committee Member, 33rd Annual International Conference on Computer Science and Software Engineering (CASCON), September 2023.
@@ -35,18 +37,21 @@ Professional Committees
 - Program Committee Member, IPSJ Symposium on Advanced Computing Systems and Infrastructures (SACSIS2013).
 
 ## Journal Reviewers
-- IEEE Transactions on Mobile Computing (TMC) (2025)
-- ACM Transactions on Mathematical Software (TOMS) (2025)
-- ACM Transactions on Architecture and Code Optimization (TACO) (2025, 2022, 2021)
+- ACM
+   - [Computing Surveys (CSUR)](https://dl.acm.org/journal/csur) (2025)
+   - [Transactions on Mathematical Software (TOMS)](https://dl.acm.org/journal/toms) (2025)
+   - [Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) (2025, 2022, 2021)
+   - [Transactions on Programming Languages and Systems (TOPLAS)](https://dl.acm.org/journal/toplas) (2018)
+   - [Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs)(2015)
+- IEEE
+   - [Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)(2025, 2015)
+   - [Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) (2025)
+   - [Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) (2022)
 - Concurrency and Computation: Practice and Experience (2024)
 - PLOS ONE (2024, 2023)
 - Journal of Cybersecurity and Privacy (JCP)(2023)
-- IEEE Micro (2022)
-- ACM Transactions on Programming Languages and Systems (TOPLAS) (2018)
 - Arabian Journal for Science and Engineering (2017)
 - Journal of Parallel and Distributed Computing (JDPC) (2017)
-- ACM Transactions on Embedded Computing Systems (TECS)(2015)
-- IEEE Transactions on Parallel and Distributed Systems (TPDS)(2015)
 - IPSJ (Information Processing Society of Japan) Journals (2024, 2015, 2014)
 - IEICE (The Institute of Electronics, Information and Communication Engineers) Transactions on Information and Systems (2020, 2013, 2012)
 

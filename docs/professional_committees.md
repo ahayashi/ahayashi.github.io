@@ -5,7 +5,7 @@ Professional Committees
 - Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
 ## Conference/Workshop Committees
-- Program committee Member, 28th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS26), May 2026. 
+- Program Committee Member, 28th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS26), May 2026. 
 - Program Committee Member, 31st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), January 2026.
 - Program Committee Member, 35th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2025.
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.
@@ -17,14 +17,14 @@ Professional Committees
 - Program Committee Member, 9th Annual Chapel Implementers and Users Workshop (CHIUW), June 2022.
 - External Review Committee Member, 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), February 2022.
 - Program Committee Member, 31st Annual International Conference on Computer Science and Software Engineering (CASCON), November 2021
-- Program Committee Member, Workshop on Programming Environments for Heterogeneous Computing (PEHC), November 2021 (co-located with SC2021)
+- Program Committee Member, Workshop on Programming Environments for Heterogeneous Computing (PEHC, co-located with SC21), November 2021
 - Program Committee Member, 8th International Workshop on Large-scale HPC Application Modernization (LHAM), November 2021 (co-located with CANDAR2021)
 - Program Committee Member, 2nd International Workshop on Parallel Optimization using/for Multi- and Many-core High Performance Computing (POMCO), December 2020 (co-located with HPCS2020).
 - Program Committee Member, 29th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2019
 - Program Committee Member, 7th International Workshop on Computer Systems and Architectures (CSA), November 2019.
 - Program Committee Member, 6th ACM SIGPLAN International Workshop on AI-Inspired and Empirical Methods for Software Engineering on Parallel Computing Systems (AI-SEPS2019, co-located with SPLASH2018).
 - Program Committee Member, 32nd International Workshop on Languages and Compilers for Parallel Computing (LCPC), October 2019.
-- Program Committee Member, 33th IEEE International Parallel & DistributedProcessing Symposium (IPDPS), May 2019.
+- Program Committee Member, 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS), May 2019.
 - Program Committee Member, 6th International Workshop on Legacy-scale HPC Application Modernization (LHAM2018, co-located with CANDAR2018).
 - Program Committee Member, 5th ACM SIGPLAN International Workshop on AI-Inspired and Empirical Methods for Software Engineering on Parallel Computing Systems (AI-SEPS2018, co-located with SPLASH2018).
 - Program Committee Member, 28th Annual International Conference on Computer Science and Software Engineering (CASCON2018).

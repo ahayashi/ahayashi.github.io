@@ -1,10 +1,11 @@
 Professional Committees
 =======================
-## Conference Chairs
+## Conference/Workshop Chairs
 - Registration Chair, Social Media Co-Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
 - Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
-## Conference Committees
+## Conference/Workshop Committees
+- Program committee Member, 28th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS26), May 2026. 
 - Program Committee Member, 31st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), January 2026.
 - Program Committee Member, 35th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2025.
 - Program Committee Member, 34th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2024.

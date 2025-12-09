@@ -67,6 +67,7 @@ Conducted research on automatic parallelization and power reduction for embedded
 - Fundamentals of FPGA Programming, Waseda University, Spring 2018
 
 ## Awards
+- Reproducibility Challenge Selection (SC25 Student Cluster Competition) at the International Conference for High Performance Computing, Networking, Storage, and Analysis  (SC25), November, 2025. (Shubhendra Pal Singhal, Souvadra Hati, Jeffrey Young, Vivek Sarkar, Akihiro Hayashi, Richard Vuduc) [LINK](https://sc25.supercomputing.org/2025/09/social-media-graphs-power-sc25-reproducibility-challenge/)
 - Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2024), May, 2024. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar) [LINK](https://2024.ccgrid-conference.org/awards/)
 - Outstanding Research Scientist Award, College of Computing, Georgia Institute of Technology, 2024 [LINK](https://www.cc.gatech.edu/annual-awards-and-honors-past-recipients)
 - Best SCALE Challenge Award, IEEE TCSC International Scalable Computing Challenge at the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID2023), May, 2023. (Youssef Elmougy, Akihiro Hayashi, Vivek Sarkar) [LINK](https://ccgrid2023.iisc.ac.in/awards/)
@@ -87,4 +88,6 @@ Conducted research on automatic parallelization and power reduction for embedded
 ## Selected Grants
 - IARPA AGILE: Flow-Optimized Reconfigurable Zones of Acceleration (FORZA)”. PI: Vivek Sarkar, co-PIs: Tom Conte, Alex Daglis, Akihiro Hayashi, Hyesoon Kim, Rich Vuduc (Georgia Tech), Scott Beamer (UC Santa Cruz), Peter Kogge (U. Notre Dame), Dean Chester, Gunnar Gunnarsson, Todd Inglett, Brian Smith (Cornelis Networks), Marty Deneroff, Tim Dysart (Lucata), Dave Donofrio, John Leidel (Tactical Computing Labs). Total Award Amount: $15,847,862 (shared among six institutions).
 - ORNL STAQC: “Software Stack and Algorithm for Automating Quantum-Classical Computing”. PI: Jeffrey Young, co-PIs: Akihiro Hayashi, Tom Conte, Vivek Sarkar Total Award Amount: $358,000
+
+
 

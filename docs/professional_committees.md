@@ -5,6 +5,7 @@ Professional Committees
 - Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
 ## Conference/Workshop Committees
+- Program Committee Member, 31st International Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS, co-located with IPDPS26), May 2026.
 - Program Committee Member, 28th Workshop on Advances in Parallel and Distributed Computational Models (APDCM, co-located with IPDPS26), May 2026. 
 - Program Committee Member, 31st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), January 2026.
 - Program Committee Member, 35th Annual International Conference on Computer Science and Software Engineering (CASCON), November 2025.

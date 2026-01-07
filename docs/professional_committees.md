@@ -59,8 +59,8 @@ Professional Committees
 - IEICE (The Institute of Electronics, Information and Communication Engineers) Transactions on Information and Systems (2020, 2013, 2012)
 
 ## Journal Editors
-- Associate Editor, IEICE Transactions on Information and Systems (2023-)
-- Guest Associate Editor, IEICE (The Institute of Electronics, Information and Communication Engineers) Special Section on Low-Power and High-Speed Chips (2022-)
+- Associate Editor, [IEICE Transactions on Information and Systems](https://globals.ieice.org/en_transactions/information) (2023-)
+- Guest Associate Editor, IEICE Special Section on Low-Power and High-Speed Chips (2022-)
 
 ## External Reviewers
 - The IEEE Cluster Conference(IEEE Cluster 2017)

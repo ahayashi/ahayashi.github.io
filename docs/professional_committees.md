@@ -41,7 +41,7 @@ Professional Committees
 ## Journal Reviewers
 - ACM
     - [Transactions on Quantum Computing](https://dl.acm.org/journal/tqc) (2026)
-    - [Computing Surveys (CSUR)](https://dl.acm.org/journal/csur) (2025)
+    - [Computing Surveys (CSUR)](https://dl.acm.org/journal/csur) (2026, 2025)
     - [Transactions on Mathematical Software (TOMS)](https://dl.acm.org/journal/toms) (2025)
     - [Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) (2025, 2022, 2021)
     - [Transactions on Programming Languages and Systems (TOPLAS)](https://dl.acm.org/journal/toplas) (2018)

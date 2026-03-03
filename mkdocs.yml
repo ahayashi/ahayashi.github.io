@@ -5,6 +5,12 @@ repo_url: https://github.com/ahayashi/ahayashi.github.io/
 edit_uri: blob/mkdocs/docs/
 docs_dir: docs
 
+
+plugins:
+  - redirects:
+      redirect_maps:
+        hclib-actor.md: https://habanero-lab.github.io/hclib-actor/
+
 theme:
   name: material
   features:

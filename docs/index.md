@@ -13,7 +13,7 @@ Dr. Hayashi is a Principal Research Scientist at Georgia Tech with over 15 years
 - Quantum Computing
  
 ### Recent Highlights
-- Please do not visit the previously used domain hclib-actor.com, which is now owned by an unrelated party. Instead please visit [https://ahayashi.github.io/hclib-actor/](https://habanero-lab.github.io/hclib-actor/).
+- Please do not visit the previously used domain hclib-actor.com, which is now owned by an unrelated party. Instead please visit [https://habanero-lab.github.io/hclib-actor/](https://habanero-lab.github.io/hclib-actor/).
 - A full paper and two workshop papers co-authored by Dr. Hayashi have been accepted at IPDPS'25.
 - A full paper and a workshop paper co-authored by Dr. Hayashi have been accepted at SC'24 ([link](https://sc24.conference-program.com/presenter/?uid=349953),[interactive chart](https://public.tableau.com/views/SC2024/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link%3AshowVizHome%3Dno)).
 - A full paper co-authored by Dr. Hayashi has been accepted at ISC'24 ([link](https://ieeexplore.ieee.org/abstract/document/10528922)).

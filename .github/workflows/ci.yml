@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       - run: |
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons.sty -o academicons.sty
+          curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons-generic.tex -o academicons-generic.tex
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons-xeluatex.tex -o academicons-xeluatex.tex
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/truetype/academicons.ttf -o academicons.ttf
           sed -i 's/{academicons}/{Academicons}/' academicons.sty

@@ -75,3 +75,6 @@ Professional Committees
 
 ## Specification Committees
 - OpenSHMEM Application Programming Interface (2022-)
+
+## Graduate Mentorship and Thesis Committees
+Dr. Hayashi has served as a co‑advisor and Ph.D. thesis committee member for multiple doctoral students in programming languages, runtime systems, and high‑performance computing, collaborating with Georgia Tech faculty such as Vivek Sarkar, Tom Conte, and Richard Vuduc. His mentorship focuses on scalable asynchronous runtimes, actor‑based distributed systems, sparse linear algebra, and large‑scale graph analytics. Mentees have received competitive external recognition, including [the NERSC Early Career HPC Achievement Award](https://www.nersc.gov/news-and-events/news/five-early-career-researchers-honored-with-nersc-achievement-awards).

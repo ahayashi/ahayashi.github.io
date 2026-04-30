@@ -26,7 +26,7 @@ Executive Summary
 Dr. Akihiro Hayashi is a Principal Research Scientist at Georgia Tech. He earned his Ph.D. in Computer Science from Waseda University in 2012 under the supervision of [Prof. Hironori Kasahara](https://www.kasahara.cs.waseda.ac.jp/kasahara.html.en). He then joined [Prof. Vivek Sarkar](https://vsarkar.cc.gatech.edu/)’s group at Rice University as a Postdoctoral Researcher, was promoted to Research Scientist in 2015, and moved to Georgia Tech in 2019, where he advanced to Senior Research Scientist and subsequently to Principal Research Scientist. His research spans programming models, compiler and runtime systems, and optimizations for large-scale and heterogeneous computing systems.
 
 #### Research Contributions
-Dr. Hayashi's research advances the co-design of programming models, compilers, and runtime systems to improve scalability, performance, and programmer productivity on modern HPC systems. He is a co‑creator of the Fine‑grained Asynchronous Bulk Synchronous Parallelism (FA‑BSP) model, which unifies asynchrony with BSP structure and has been developed and validated throgh sustained systems research for large‑scale irregular workloads, including its realization in the HClib‑Actor runtime system ([https://hclib-actor.cc.gatech.edu](https://hclib-actor.cc.gatech.edu)). 
+Dr. Hayashi's research advances the co-design of programming models, compilers, and runtime systems to improve scalability, performance, and programmer productivity on large-scale systems. He is a co‑creator of the Fine‑grained Asynchronous Bulk Synchronous Parallelism (FA‑BSP) model, which unifies asynchrony with BSP structure and has been developed and validated through sustained systems research for large‑scale irregular workloads, including its realization in the HClib‑Actor runtime system ([https://hclib-actor.cc.gatech.edu](https://hclib-actor.cc.gatech.edu)). 
 
 He has authored 8 refereed journal publications and over 60 refereed conference and workshop publications, including in leading venues such as Quantum, CC, EuroPar, ISC, IPDPS, PACT, and SC. To date, according to [Google Scholar](https://scholar.google.com/citations?user=gfsge0AAAAAJ&hl=en), his research has received over 1,000 citations, with an h-index of 14 and an i10-index of 19.
 
@@ -51,5 +51,6 @@ Dr. Hayashi's research interests include:
 - Resilience for Parallel and Distributed Systems
 - GPUs
 - Quantum Computing
+- Quantum–Classical Programming Systems
 
 \newpage

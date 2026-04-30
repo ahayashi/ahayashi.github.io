@@ -6,15 +6,15 @@ Professional Committees
 
 ## Conference/Workshop Committees
 ### Conferences
-- ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+- ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming ([PPoPP](https://dl.acm.org/conference/ppopp))
    - PC (2017, 2026), ERC (2022)
-- IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+- IEEE International Parallel and Distributed Processing Symposium ([IPDPS](https://www.ipdps.org/))
    - PC / TPC (2015, 2019)
-- ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+- ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS](https://dl.acm.org/conference/asplos))
    - ERC (2018)
-- International European Conference on Parallel and Distributed Computing (Euro-Par)
+- International European Conference on Parallel and Distributed Computing ([Euro-Par](https://euro-par.org/))
    - PC (2023)
-- International Conference on Computer Science and Software Engineering (CASCON)
+- International Conference on Computer Science and Software Engineering ([CASCON](https://cascon.ca/))
    - PC (2018-2025)
 - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
    - PC (2016)

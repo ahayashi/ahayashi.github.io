@@ -40,14 +40,14 @@ Professional Committees
 
 ## Journal Reviewers
 - ACM
-    - [Transactions on Quantum Computing](https://dl.acm.org/journal/tqc) (2026)
+    - [Transactions on Quantum Computing (TQC)](https://dl.acm.org/journal/tqc) (2026)
     - [Computing Surveys (CSUR)](https://dl.acm.org/journal/csur) (2026, 2025)
     - [Transactions on Mathematical Software (TOMS)](https://dl.acm.org/journal/toms) (2025)
     - [Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) (2025, 2022, 2021)
     - [Transactions on Programming Languages and Systems (TOPLAS)](https://dl.acm.org/journal/toplas) (2018)
     - [Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs)(2015)
 - IEEE
-    - [Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)(2025, 2015)
+    - [Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)(2026, 2025, 2015)
     - [Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) (2025)
     - [Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) (2022)
 - Wiley [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634) (2024)

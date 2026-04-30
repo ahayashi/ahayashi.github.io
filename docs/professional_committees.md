@@ -19,7 +19,8 @@ Professional Committees
 - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
    - PC (2016)
 - IPSJ Symposium on Advanced Computing Systems and Infrastructures (SACSIS)
-   - PC (2013)  
+   - PC (2013)
+
 ### Workshops
 - IPDPS Workshops
    - High-level Parallel Programming Models and Supportive Environments (HIPS): PC (2026)

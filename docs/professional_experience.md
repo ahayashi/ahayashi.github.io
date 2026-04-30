@@ -4,6 +4,7 @@ Professional Experience
 ## Professional
 
 ### 2025-present: Principal Research Scientist, Georgia Institute of Technology, Atlanta, GA, USA
+- Leading the technical vision, proposal development, and execution of single- and multi-institution research projects
 - Leading externally funded research projects as co-principal investigator, key personnel, and team lead
 - Serving on conference organizing/program committees, journal editorial boards, and specification committees in high-performance computing and programming models
 

@@ -1,7 +1,7 @@
 Projects
 ========
 ### IARPA
-- AGILE: [link](https://www.iarpa.gov/research-programs/agile)
+- AGILE: [link](https://www.iarpa.gov/research-programs/agile-2)
 
 ### PGAS Languages (Chapel)
 - Chapel-GPU: [link](https://ahayashi.github.io/chapel-gpu/index.html)
@@ -17,4 +17,4 @@ Projects
 - Resilient-Kokkos
 
 ### Oak Ridge National Laboratory
-- QCOR: [link](https://qcor.ornl.gov/)
+- QCOR: [link](https://github.com/qir-alliance/qcor)

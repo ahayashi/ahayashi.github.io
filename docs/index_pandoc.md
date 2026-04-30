@@ -45,9 +45,8 @@ Dr. Hayashi is active in the research community, serving on program committees f
 
 #### Core Competencies
 - Languages: C/C++, Java, Python  
-- Parallel Programming Models: OpenMP, MPI, OpenSHMEM, Chapel, Kokkos  
-- Heterogeneous Acceleration: CUDA, HIP, SYCL  
-- Compiler & Runtime Systems: Clang/LLVM; performance‑critical runtime design and compiler–runtime co‑design for large‑scale systems
+- Parallel, Distributed, and Heterogeneous, Programming Models: OpenMP, MPI, OpenSHMEM, Chapel, Kokkos, CUDA, HIP, SYCL  
+- Compiler & Runtime Systems: Clang/LLVM, HClib-Actor
 - Performance Engineering & Tooling: Nsight, VTune, CrayPat 
 - Domain-Specific Frameworks: PyTorch (ML/AI), Qulacs (Quantum)
 

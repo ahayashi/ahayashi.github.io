@@ -44,7 +44,7 @@ Dr. Hayashi is active in the research community, serving on program committees f
 ), and has been a member of [the OpenSHMEM API specification](http://openshmem.org/site/) committee since 2021. 
 
 #### Core Competencies
-- Languages: C/C++, Java, Python  
+- Languages: C/C++, Java, Python
 - Parallel & Heterogeneous Programming: OpenMP, MPI, OpenSHMEM, Chapel, Kokkos, CUDA, HIP, SYCL
 - Compiler & Runtime Systems: Clang/LLVM, HClib-Actor
 - Performance Engineering & Tooling: Nsight, VTune, CrayPat 

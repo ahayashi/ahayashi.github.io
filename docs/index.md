@@ -1,7 +1,9 @@
 ![Akihiro](./img/akihiro.png)
 
 ### Summary
-Dr. Hayashi is a Principal Research Scientist at Georgia Tech with over 15 years of experience in programming models, compilers, and runtime systems. He has been instrumental as key personnel in externally sponsored projects funded by BAH, IARPA, IBM, ORNL, SNL, and others. Additionally, he has served on the OC, PC, and ERC for various conferences, including ASPLOS, IPDPS, ISCA, PPoPP, and others. He has been honored with several awards, including the Best SCALE Challenge Award at CCGRID ’23 and ’24 and the 2024 Outstanding Research Scientist Award from Georgia Tech’s College of Computing. His research interests include:
+Dr. Hayashi is a Principal Research Scientist at Georgia Tech working at the intersection of programming models, compilers, and runtime systems for large-scale and heterogeneous systems. Most notably, he leads the design and development of the Fine‑grained Asynchronous Bulk Synchronous Parallelism (FA‑BSP) model, which unifies asynchrony with BSP structure to enable scalable and efficient execution of irregular applications. This work has been realized in the [HClib-Actor runtime system](https://hclib-actor.cc.gatech.edu) and validated through publications in leading HPC venues, including SC, IPDPS, and ISC, as well as two Best SCALE Challenge Awards (CCGrid 2023 and 2024). 
+
+With over 15 years of experience in high-performance computing, Dr. Hayashi has contributed to externally sponsored research projects funded by organizations such as IARPA, IBM, ORNL, and SNL, serving as key personnel and technical lead in large-scale, single- or multi-institution collaborations. Additionally, he is an active member of the research community, having served on organizing and program committees for major conferences including ASPLOS, ISCA, and repeatedly for IPDPS and PPoPP. He has received several recognitions, including the 2024 Outstanding Research Scientist Award from Georgia Tech's College of Computing. His research interests include:
 
 - Parallel and Distributed Programming Models
 - Automatic Parallelizing Compilers

@@ -29,7 +29,7 @@ Professional Committees
    - Programming Environments for Heterogeneous Computing (PEHC): PC (2021)
 - SPLASH Workshops
    - The Vivek Sarkar Festschrift Symposium (VIVEKFEST): Reviewer (2024) 
-   - Software Engineering for Parallel Systems (AI-SEPS/SEPS): PC (2019-2016)
+   - Software Engineering for Parallel Systems (AI-SEPS/SEPS): PC (2016-2019)
 - CANDAR Workshops
    - Large-scale HPC Application Modernization (LHAM): PC (2017, 2018, 2021)
    - Computer Systems and Architectures (CSA): PC (2019)

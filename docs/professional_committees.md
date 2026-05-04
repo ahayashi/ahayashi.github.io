@@ -34,7 +34,7 @@ Professional Committees
    - Large-scale HPC Application Modernization (LHAM): PC (2017, 2018, 2021)
    - Computer Systems and Architectures (CSA): PC (2019)
 - Other Workshops 
-   - Chapel Implementers and Users Workshop (CHIUW): PC (2023, 2022)
+   - Chapel Implementers and Users Workshop (CHIUW): PC (2022, 2023)
    - Parallel Optimization using/for Multi- and Many-core High Performance Computing (POMCO): PC (2020)
    - Languages and Compilers for Parallel Computing (LCPC): PC (2019)
 

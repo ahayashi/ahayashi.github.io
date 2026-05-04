@@ -31,7 +31,7 @@ Professional Committees
    - The Vivek Sarkar Festschrift Symposium (VIVEKFEST): Reviewer (2024) 
    - Software Engineering for Parallel Systems (AI-SEPS/SEPS): PC (2019-2016)
 - CANDAR Workshops
-   - Large-scale HPC Application Modernization (LHAM): PC (2021, 2018, 2017)
+   - Large-scale HPC Application Modernization (LHAM): PC (2017, 2018, 2021)
    - Computer Systems and Architectures (CSA): PC (2019)
 - Other Workshops 
    - Chapel Implementers and Users Workshop (CHIUW): PC (2023, 2022)
@@ -41,22 +41,22 @@ Professional Committees
 ## Journal Reviewers
 - ACM
     - [Transactions on Quantum Computing (TQC)](https://dl.acm.org/journal/tqc) (2026)
-    - [Computing Surveys (CSUR)](https://dl.acm.org/journal/csur) (2026, 2025)
+    - [Computing Surveys (CSUR)](https://dl.acm.org/journal/csur) (2025, 2026)
     - [Transactions on Mathematical Software (TOMS)](https://dl.acm.org/journal/toms) (2025)
-    - [Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) (2025, 2022, 2021)
+    - [Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) (2021, 2022, 2025)
     - [Transactions on Programming Languages and Systems (TOPLAS)](https://dl.acm.org/journal/toplas) (2018)
     - [Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs)(2015)
 - IEEE
-    - [Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)(2026, 2025, 2015)
+    - [Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)(2015, 2025, 2026)
     - [Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) (2025)
     - [Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) (2022)
 - Wiley [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634) (2024)
-- [PLOS ONE](https://journals.plos.org/plosone/) (2024, 2023)
+- [PLOS ONE](https://journals.plos.org/plosone/) (2023, 2024)
 - Journal of Cybersecurity and Privacy (JCP)(2023)
 - Arabian Journal for Science and Engineering (2017)
 - Journal of Parallel and Distributed Computing (JDPC) (2017)
-- IPSJ (Information Processing Society of Japan) Journals (2024, 2015, 2014)
-- IEICE (The Institute of Electronics, Information and Communication Engineers) Transactions on Information and Systems (2020, 2013, 2012)
+- IPSJ (Information Processing Society of Japan) Journals (2014, 2015, 2024)
+- IEICE (The Institute of Electronics, Information and Communication Engineers) Transactions on Information and Systems (2012, 2013, 2020)
 
 ## Journal Editors
 - Associate Editor, [IEICE Transactions on Information and Systems](https://globals.ieice.org/en_transactions/information) (2023-)
@@ -64,14 +64,14 @@ Professional Committees
 
 ## External Reviewers
 - The IEEE Cluster Conference(IEEE Cluster 2017)
-- International Conference on Network and Parallel Computing (NPC2017, NPC2016)
+- International Conference on Network and Parallel Computing (NPC2016, NPC2017)
 - International Conference on Parallel Processing (ICPP2016)
 - International Conference on Parallel Architectures and Compilation Techniques (PACT2015)
 - International Conference for High Performance Computing, Networking, Storage and Analysis (SC13)
-- International Conference on Supercomputing (ICS2018, ICS2013)
+- International Conference on Supercomputing (ICS2013, ICS2018)
 - International Conference on Parallel and Distributed Systems (ICPADS2013)
-- International Conference on Computer Design (ICCD2014, ICCD2013, ICCD2012)
-- International Workshop on Languages and Compilers for Parallel Computing (LCPC2018, LCPC2015, LCPC2014, LCPC2013)
+- International Conference on Computer Design (ICCD2012, ICCD2013, ICCD2014)
+- International Workshop on Languages and Compilers for Parallel Computing (LCPC2013, LCPC2014, LCPC2015, LCPC2018)
 
 ## Specification Committees
 - OpenSHMEM Application Programming Interface (2022-)

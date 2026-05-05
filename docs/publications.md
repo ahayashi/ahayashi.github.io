@@ -64,7 +64,7 @@ Publications
 
 1. **Software-Cooperative Power-Efficient Heterogeneous Multi-Core for Media Processing**. Hiroaki Shikano, Masaki Ito, Kunio Uchiyama, Toshihiko Odaka,Akihiro Hayashi, Takeshi Masuura, Masayoshi Mase, Jun Shirako, Yasutaka Wada, Keiji Kimura, Hironori Kasahara, 13th Asia and South Pacific Design Automation Conference (ASP-DAC2008), January 2008. [DOI](https://doi.org/10.1109/ASPDAC.2008.4484049)
 
-### Wowkshop Publications
+### Workshop Publications
 1. **Performance Analysis of Conveyors: Memory Dominates?**. Shubhendra Pal Singhal, Aaron Welch, Oscar Hernandez, Steve Poole, Akihiro Hayashi, Vivek Sarkar. 6th Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn STrategy (PERMAVOST, co-located with HPDC26). July 2026.
 
 1. **Breaking All-Reduce Bottlenecks with Asynchronous Influence Maximization at Scale**. Shubhendra Pal Singhal, Ajay Mandadi, Akihiro Hayashi, Thomas M. Conte, Vivek Sarkar. IEEE TCSC International Scalable Computing Challenge (SCALE 2026, co-located with CCGRID26). May 2026.

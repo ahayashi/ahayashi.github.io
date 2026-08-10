@@ -1,42 +1,43 @@
 Professional Committees
 =======================
 ## Conference/Workshop Chairs
-- Registration Chair, Social Media Co-Chair, 52nd International Symposium on Computer Architecture (ISCA2025), June 2025.
-- Local arrangement Co-chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
+- Local Arrangements Co-Chair, 48th ACM SIGPLAN Conference on Programming Language Design and Implementation ([PLDI 2027](https://pldi27.sigplan.org/)), June 2027.
+- Registration Chair, Social Media Co-Chair, 52nd International Symposium on Computer Architecture ([ISCA 2025](https://iscaconf.org/isca2025/)), June 2025.
+- Local arrangement Co-Chair, 25th International Workshop on Languages and Compilers for Parallel Computing (LCPC2012), September 2012.
 
 ## Conference/Workshop Committees
 ### Conferences
 - ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming ([PPoPP](https://dl.acm.org/conference/ppopp))
-   - PC (2017, 2026), ERC (2022)
+    - PC (2017, 2026), ERC (2022)
 - IEEE International Parallel and Distributed Processing Symposium ([IPDPS](https://www.ipdps.org/))
-   - PC / TPC (2015, 2019)
+    - PC / TPC (2015, 2019)
 - ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS](https://dl.acm.org/conference/asplos))
-   - ERC (2018)
+    - ERC (2018)
 - International European Conference on Parallel and Distributed Computing ([Euro-Par](https://euro-par.org/))
-   - PC (2023)
+    - PC (2023)
 - International Conference on Computer Science and Software Engineering ([CASCON](https://cascon.ca/))
-   - PC (2018-2025)
+    - PC (2018-2026)
 - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
-   - PC (2016)
+    - PC (2016)
 - IPSJ Symposium on Advanced Computing Systems and Infrastructures (SACSIS)
-   - PC (2013)
+    - PC (2013)
 
 ### Workshops
 - IPDPS Workshops
-   - High-level Parallel Programming Models and Supportive Environments (HIPS): PC (2026)
-   - Advances in Parallel and Distributed Computational Models (APDCM): PC (2026) 
+    - High-level Parallel Programming Models and Supportive Environments (HIPS): PC (2026)
+    - Advances in Parallel and Distributed Computational Models (APDCM): PC (2026) 
 - SC Workshops
-   - Programming Environments for Heterogeneous Computing (PEHC): PC (2021)
+    - Programming Environments for Heterogeneous Computing (PEHC): PC (2021)
 - SPLASH Workshops
-   - The Vivek Sarkar Festschrift Symposium (VIVEKFEST): Reviewer (2024) 
-   - Software Engineering for Parallel Systems (AI-SEPS/SEPS): PC (2016-2019)
+    - The Vivek Sarkar Festschrift Symposium (VIVEKFEST): Reviewer (2024) 
+    - Software Engineering for Parallel Systems (AI-SEPS/SEPS): PC (2016-2019)
 - CANDAR Workshops
-   - Large-scale HPC Application Modernization (LHAM): PC (2017, 2018, 2021)
-   - Computer Systems and Architectures (CSA): PC (2019)
+    - Large-scale HPC Application Modernization (LHAM): PC (2017, 2018, 2021)
+    - Computer Systems and Architectures (CSA): PC (2019)
 - Other Workshops 
-   - Chapel Implementers and Users Workshop (CHIUW): PC (2022, 2023)
-   - Parallel Optimization using/for Multi- and Many-core High Performance Computing (POMCO): PC (2020)
-   - Languages and Compilers for Parallel Computing (LCPC): PC (2019)
+    - Chapel Implementers and Users Workshop (CHIUW): PC (2022, 2023)
+    - Parallel Optimization using/for Multi- and Many-core High Performance Computing (POMCO): PC (2020)
+    - Languages and Compilers for Parallel Computing (LCPC): PC (2019)
 
 ## Journal Reviewers
 - ACM

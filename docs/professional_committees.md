@@ -49,6 +49,7 @@ Professional Committees
     - [Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs)(2015)
 - IEEE
     - [Access](https://ieeeaccess.ieee.org/) (2026)
+    - [Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (2026)
     - [Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)(2015, 2025, 2026)
     - [Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) (2025)
     - [Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) (2022)

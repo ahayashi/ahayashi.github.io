@@ -14,7 +14,6 @@ jobs:
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons-generic.tex -o academicons-generic.tex
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons-xeluatex.tex -o academicons-xeluatex.tex
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/truetype/academicons.ttf -o academicons.ttf
-          sed -i 's/{academicons}/{Academicons}/' academicons.sty
           docker run --rm --entrypoint sh -v ${{ github.workspace }}:/data pandoc/extra:latest -c "
             cd /data &&
             ls academicons.ttf academicons.sty &&

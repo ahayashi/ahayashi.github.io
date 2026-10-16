@@ -26,9 +26,9 @@ Publications
 ### Conference Publications
 1. **Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry**. Aaron Welch, Shubhendra Pal Singhal, Akihiro Hayashi, Jun Shirako, Oscar Hernandez, Vivek Sarkar, Steve Poole. IEEE Symposium on High-Performance Interconnects (HOTI 2026). August, 2026.
 
-1. **Heading Towards Energy Savings or Just Performance: Case-study on Aggregation-Based Runtimes**. Shubhendra Pal Singhal, Aaron Welch, Nathan Wichmann, Akihiro Hayashi, Oscar Hernandez, Bradford L. Chamberlain, Steve Poole, Vivek Sarkar. The Cray User Group (CUG) Conference. April, 2026.
+1. **Heading Towards Energy Savings or Just Performance: Case-study on Aggregation-Based Runtimes**. Shubhendra Pal Singhal, Aaron Welch, Nathan Wichmann, Akihiro Hayashi, Oscar Hernandez, Bradford L. Chamberlain, Steve Poole, Vivek Sarkar. The Cray User Group (CUG) Conference. April, 2026. [DOI](https://doi.org/10.1145/3837730.3837750)
 
-1. **Toward a Unified GPU-Aware OpenSHMEM Specification**. Naveen Ravi, Nathan Wichmann, Aurelien Bouteiller, Yıltan Temuçin, Avinash Kethineedi, Johnathan Alsop, Brandon Potter, Aaron Welch, Oscar Hernandez, Shubhendra Pal Singhal, Akihiro Hayashi, Michael Beebe, Wendy Poole, Steve Poole. The Cray User Group (CUG) Conference. April, 2026.
+1. **Toward a Unified GPU-Aware OpenSHMEM Specification**. Naveen Ravi, Nathan Wichmann, Aurelien Bouteiller, Yıltan Temuçin, Avinash Kethineedi, Johnathan Alsop, Brandon Potter, Aaron Welch, Oscar Hernandez, Shubhendra Pal Singhal, Akihiro Hayashi, Michael Beebe, Wendy Poole, Steve Poole. The Cray User Group (CUG) Conference. April, 2026. [DOI](https://doi.org/10.1145/3837730.3837752)
 
 1. **Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**. Souvadra Hati, Akihiro Hayashi, Richard Vuduc. 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS25). June 2025. [DOI](https://doi.org/10.1109/IPDPS64566.2025.00049)
 

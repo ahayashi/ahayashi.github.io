@@ -13,12 +13,13 @@ jobs:
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons.sty -o academicons.sty
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons-generic.tex -o academicons-generic.tex
           curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/tex/academicons-xeluatex.tex -o academicons-xeluatex.tex
-          curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/truetype/academicons.ttf -o academicons.ttf
+          curl -L https://raw.githubusercontent.com/diogo-fernan/academicons/refs/heads/main/opentype/academicons.otf -o academicons.otf
+          sed -i 's/{academicons}/{Academicons}/' academicons.sty
           docker run --rm --entrypoint sh -v ${{ github.workspace }}:/data pandoc/extra:latest -c "
             cd /data &&
-            ls academicons.ttf academicons.sty &&
+            ls academicons.otf academicons.sty &&
             mkdir -p /usr/share/fonts/truetype/academicons &&
-            cp academicons.ttf /usr/share/fonts/truetype/academicons/ &&
+            cp academicons.otf /usr/share/fonts/truetype/academicons/ &&
             apk add --no-cache ttf-liberation fontconfig &&
             fc-cache -fv &&
             export TEXINPUTS=.:\$TEXINPUTS &&

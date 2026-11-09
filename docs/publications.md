@@ -24,7 +24,7 @@ Publications
 1. **Parallelization of MP3 Encoder using Static Scheduling on a Heterogeneous Multicore**. Yasutaka Wada, Akihiro Hayashi, Takeshi Masuura, Jun Shirako, Hirofumi Nakano, Hiroaki Shikano, Keiji Kimura, Hironori Kasahara, Transactions of IPSJ on Computing Systems, Vol. 49 (ACS), 2008. [LINK](https://cir.nii.ac.jp/crid/1050001337893111168) (in Japanese)
 
 ### Conference Publications
-1. **Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry**. Aaron Welch, Shubhendra Pal Singhal, Akihiro Hayashi, Jun Shirako, Oscar Hernandez, Vivek Sarkar, Steve Poole. IEEE Symposium on High-Performance Interconnects (HOTI 2026). August, 2026.
+1. **Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry**. Aaron Welch, Shubhendra Pal Singhal, Akihiro Hayashi, Jun Shirako, Oscar Hernandez, Vivek Sarkar, Steve Poole. IEEE Symposium on High-Performance Interconnects (HOTI 2026). August, 2026. [DOI](https://doi.org/10.1109/HotI70696.2026.00024)
 
 1. **Heading Towards Energy Savings or Just Performance: Case-study on Aggregation-Based Runtimes**. Shubhendra Pal Singhal, Aaron Welch, Nathan Wichmann, Akihiro Hayashi, Oscar Hernandez, Bradford L. Chamberlain, Steve Poole, Vivek Sarkar. The Cray User Group (CUG) Conference. April, 2026. [DOI](https://doi.org/10.1145/3837730.3837750)
 
